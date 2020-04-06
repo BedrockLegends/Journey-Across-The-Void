@@ -1,4 +1,8 @@
-# Journey Across The Void [![Discord][discordImg]][discordLink] [![Test][curseImg]][curseLink]
+<p align="center">
+  <img width="990" height="96" src="https://i.imgur.com/V8KyQdW.png">
+</p>
+
+[![Discord][discordImg]][discordLink] [![Test][curseImg]][curseLink]
 
 [discordImg]: https://img.shields.io/discord/554449878282010633?color=ffaa00&label=Discord&logo=Discord&style=flat-square
 
@@ -16,8 +20,9 @@ Released files:
 - [Curse/Twitch](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
 
 
+
 <p align="center">
   <img width="419" height="185" src="https://www.bisecthosting.com/images/logos/BH_full.png">
 </p>
-If you're looking to play Journey Across the Void with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze. Use the code BedrockLegends or the link above to save 25% off your first month.
+If you're looking to play Journey Across the Void with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze. Use the code BedrockLegends to save 25% off your first month.
 
