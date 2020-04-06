@@ -11,6 +11,13 @@
 
 A modpack made by [Modern Gaming World](https://www.twitch.tv/moderngamingworld), [Mastersloth1](https://www.twitch.tv/mastersloth1), and  [Warbringer1](https://www.twitch.tv/warbringer12).
 
-## Modpac Downloads
+## Modpack Downloads
 Released files:
 - [Curse/Twitch](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
+
+
+<p align="center">
+  <img width="419" height="185" src="https://www.bisecthosting.com/images/logos/BH_full.png">
+</p>
+If you're looking to play Journey Across the Void with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze. Use the code BedrockLegends or the link above to save 25% off your first month.
+
