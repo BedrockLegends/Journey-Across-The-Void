@@ -18,6 +18,7 @@ A modpack made by [Modern Gaming World](https://www.twitch.tv/moderngamingworld)
 ## Modpack Downloads
 Released files:
 - [Curse/Twitch](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
+- [Server Files](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void/files/2914860)
 
 
 
