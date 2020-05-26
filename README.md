@@ -25,6 +25,6 @@ Released files:
 
 
 
-![BisectHosting](https://camo.githubusercontent.com/76e6a0c666c55b763b1ee98c8805b2659a1d8e41/68747470733a2f2f7777772e626973656374686f7374696e672e636f6d2f696d616765732f6c6f676f732f42485f66756c6c2e706e67)
+![BisectHosting](https://www.bisecthosting.com/images/logos/logo.svg)
 If you're looking to play Journey Across the Void with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze. Use the code BedrockLegends to save 25% off your first month.
 
