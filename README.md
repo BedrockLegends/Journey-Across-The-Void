@@ -1,25 +1,44 @@
-![Alt Text](https://i.imgur.com/V8KyQdW.png) 
-[![Discord][discordImg]][discordLink] [![Test][curseImg]][curseLink]
+# Journey-Across-The-Void-2 [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
 
-[discordImg]: https://img.shields.io/discord/554449878282010633?color=ffaa00&label=Discord&logo=Discord&style=flat-square
+[discordImg]: https://img.shields.io/discord/554449878282010633?label=Discord&logo=Discord
 
 [discordLink]: https://discord.gg/wFtUTgZ
 
-[curseImg]:  http://cf.way2muchnoise.eu/325071.svg
+[curseImg]: http://cf.way2muchnoise.eu/325071.svg
 
 [curseLink]: https://www.curseforge.com/minecraft/modpacks/journey-across-the-void
 
-
-A modpack made by [Modern Gaming World](https://www.twitch.tv/moderngamingworld), [Mastersloth1](https://www.twitch.tv/mastersloth1), and  [Warbringer1](https://www.twitch.tv/warbringer12).
-
-## Modpack Downloads
+## Pack Downloads:
 Released files:
 - [Curse/Twitch](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
-- [Server Files](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void/files/2914860)
+- [Discord](https://discord.gg/wFtUTgZ)
 
 
 
 
-![BisectHosting](https://www.bisecthosting.com/images/logos/logo.svg)
-If you're looking to play Journey Across the Void with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze. Use the code BedrockLegends to save 25% off your first month.
+## About the Pack:
 
+Journey Across The Void is a Skyblock modpack filled to the walls with mods ranging from tech to magic to more. This pack was built around tons of quest that are related to each mod or task needed to move forward within this pack.
+
+
+
+## Mod List
+[Mod List](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void/relations/dependencies)
+
+
+## Modpack Developers:
+
+ModernGamingWorld, MasterSloth1, and Warbringer12, Lectavison, and Tylerun
+
+
+## Additional Credits:
+
+The Feed The Beast Team for use of their mods in Curseforge packs.
+
+
+## Other Projects
+- [Mod Slothcraft](https://www.curseforge.com/minecraft/mc-mods/slothcraft)
+- [Journey Across The Void 2](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void-2)
+- [Monumental Experience](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
+- [Solth's Hack n Slash](https://www.curseforge.com/minecraft/modpacks/sloths-has-adventure)
+- [Warbringer's Medieval Adventure](https://www.curseforge.com/minecraft/modpacks/warbringer)
