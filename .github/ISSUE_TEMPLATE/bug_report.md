@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+**Please do not make issues that ask for server files**
+
 **Issue description:**
 
  
