@@ -1,4 +1,4 @@
-# Journey-Across-The-Void-2 [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
+# Journey-Across-The-Void [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
 
 [discordImg]: https://img.shields.io/discord/554449878282010633?label=Discord&logo=Discord
 
