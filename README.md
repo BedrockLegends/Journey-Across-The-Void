@@ -15,17 +15,9 @@
     <img alt="Modpack Versions" src="http://cf.way2muchnoise.eu/versions/325071.svg">
   </a>
 
-## Pack Downloads:
-Released files:
-- [Curse/Twitch](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
-- [Discord](https://discord.gg/wFtUTgZ)
-
-
-
-
 ## About the Pack:
 
-Journey Across The Void is a Skyblock modpack filled to the walls with mods ranging from tech to magic to more. This pack was built around tons of quest that are related to each mod or task needed to move forward within this pack.
+Welcome to Journey Across The Void! Journey Across The Void will offer you a Skyblock experience filled to the walls with many mods ranging from tech to magic to more. This pack was built around tons of quest that are related to each mod or task that is needed to move forward within this pack.
 
 
 
@@ -35,8 +27,7 @@ Journey Across The Void is a Skyblock modpack filled to the walls with mods rang
 
 ## Modpack Developers:
 
-ModernGamingWorld, MasterSloth1, and Warbringer12, Lectavison, and Tylerun
-
+ModernGamingWorld, MasterSloth1, Warbringer12, and Lectavison
 
 ## Additional Credits:
 
