@@ -1,12 +1,19 @@
-# Journey-Across-The-Void [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
+# Journey-Across-The-Void 
+  <a href="https://discord.gg/kvagXuP">
+    <img alt="Discord" src="https://img.shields.io/discord/554449878282010633?color=purple&label=Discord&style=flat-square">
+  </a>
 
-[discordImg]: https://img.shields.io/discord/554449878282010633?label=Discord&logo=Discord
-
-[discordLink]: https://discord.gg/dhEkyGm
-
-[curseImg]: http://cf.way2muchnoise.eu/325071.svg
-
-[curseLink]: https://www.curseforge.com/minecraft/modpacks/journey-across-the-void
+ <a href="https://github.com/BedrockLegends/Journey-Across-The-Void/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/BedrockLegends/Journey-Across-The-Void">
+  </a>
+  
+  <a href="https://www.curseforge.com/minecraft/modpacks/monumental-experience">
+    <img alt="Modpack Downloads" src="http://cf.way2muchnoise.eu/full_325071_downloads.svg">
+  </a>
+  
+  <a href="https://www.curseforge.com/minecraft/modpacks/monumental-experience">
+    <img alt="Modpack Versions" src="http://cf.way2muchnoise.eu/versions/325071.svg">
+  </a>
 
 ## Pack Downloads:
 Released files:
