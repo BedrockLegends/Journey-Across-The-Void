@@ -27,7 +27,7 @@ Welcome to Journey Across The Void! Journey Across The Void will offer you a Sky
 
 ## Modpack Developers:
 
-ModernGamingWorld, MasterSloth1, Warbringer12, and Lectavison
+ModernGamingWorld
 
 ## Additional Credits:
 
@@ -35,8 +35,5 @@ The Feed The Beast Team for use of their mods in Curseforge packs.
 
 
 ## Other Projects
-- [Mod Slothcraft](https://www.curseforge.com/minecraft/mc-mods/slothcraft)
 - [Journey Across The Void 2](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void-2)
 - [Monumental Experience](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
-- [Solth's Hack n Slash](https://www.curseforge.com/minecraft/modpacks/sloths-has-adventure)
-- [Warbringer's Medieval Adventure](https://www.curseforge.com/minecraft/modpacks/warbringer)
