@@ -1,0 +1,19 @@
+{
+	x: 11.0d,
+	y: -3.0d,
+	dependencies: [
+		"e635a155"
+	],
+	tasks: [{
+		uid: "4a960327",
+		type: "item",
+		items: [{
+			item: "botanicadds:terra_protector"
+		}]
+	}],
+	rewards: [{
+		uid: "79ab4451",
+		type: "random",
+		table: 0
+	}]
+}

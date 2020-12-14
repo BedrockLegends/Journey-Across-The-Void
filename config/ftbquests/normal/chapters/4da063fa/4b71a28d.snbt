@@ -1,0 +1,23 @@
+{
+	x: -8.0d,
+	y: -19.0d,
+	dependencies: [
+		"93698afa"
+	],
+	tasks: [{
+		uid: "a771c1ca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extraplanets:item_tier7_rocket"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bc87845d",
+		type: "random",
+		table: 0
+	}]
+}

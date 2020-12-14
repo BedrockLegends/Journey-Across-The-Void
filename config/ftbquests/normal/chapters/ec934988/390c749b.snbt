@@ -1,0 +1,29 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Place this over a lava source block then insert the recipe ingredients"
+	],
+	tasks: [{
+		uid: "8a75bfde",
+		type: "item",
+		items: [{
+			item: "brewcraft:distiller"
+		}],
+		count: 18L
+	},
+	{
+		uid: "9c829655",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			item: "minecraft:magma"
+		}],
+		count: 18L
+	}],
+	rewards: [{
+		uid: "afa2cf8b",
+		type: "random",
+		table: 0
+	}]
+}

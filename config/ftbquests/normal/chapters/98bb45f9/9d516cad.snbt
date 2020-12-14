@@ -1,0 +1,19 @@
+{
+	x: 16.0d,
+	y: -8.0d,
+	dependencies: [
+		"027b0e66"
+	],
+	tasks: [{
+		uid: "c372a25a",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:magnet_upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "599f7df3",
+		type: "random",
+		table: 0
+	}]
+}

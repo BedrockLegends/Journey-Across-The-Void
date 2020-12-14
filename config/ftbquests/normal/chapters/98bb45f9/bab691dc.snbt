@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	dependencies: [
+		"964e8827"
+	],
+	tasks: [{
+		uid: "726f879f",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:advanced_liquid_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "92e3a066",
+		type: "random",
+		table: 0
+	}]
+}

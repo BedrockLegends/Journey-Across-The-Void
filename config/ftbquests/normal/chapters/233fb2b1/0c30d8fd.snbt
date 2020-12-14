@@ -1,0 +1,29 @@
+{
+	title: "Beez Location's",
+	x: 4.0d,
+	y: 6.0d,
+	dependencies: [
+		"c43a07d2"
+	],
+	tasks: [{
+		uid: "6ea40f0a",
+		type: "checkmark",
+		title: "All princess's are ignobal quality except ender princess",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftcore:cheese"
+		}
+	}],
+	rewards: [{
+		uid: "b60e5b64",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "galacticraftcore:cheese"
+		}
+	}]
+}

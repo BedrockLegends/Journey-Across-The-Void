@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 2.0d,
+	can_repeat: true,
+	dependencies: [
+		"12a15ebb"
+	],
+	tasks: [{
+		uid: "dfe5e949",
+		type: "kill",
+		entity: "extraplanets:extraplanets.evolvedsnowmanboss",
+		value: 2L
+	}],
+	rewards: [{
+		uid: "183fe306",
+		type: "random",
+		table: 0
+	}]
+}

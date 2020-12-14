@@ -1,0 +1,41 @@
+{
+  "ore:treeLeaves": {
+    "fluid": "water",
+    "amount": 250
+  },
+  "ore:listAllfruit": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "ore:treeSapling": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "minecraft:apple:0": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "bewitchment:oak_apple_gall:0": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "tp:plump_peach:0": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "tp:plump_pear:0": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "ore:listAllveggie": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  }
+}

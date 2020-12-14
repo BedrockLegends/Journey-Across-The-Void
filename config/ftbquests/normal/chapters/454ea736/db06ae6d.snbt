@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 11.0d,
+	can_repeat: true,
+	dependencies: [
+		"3fdb601d"
+	],
+	tasks: [{
+		uid: "646b6500",
+		type: "kill",
+		entity: "minecraft:wither_skeleton",
+		value: 20L
+	}],
+	rewards: [{
+		uid: "ecb5a941",
+		type: "random",
+		table: 0
+	}]
+}

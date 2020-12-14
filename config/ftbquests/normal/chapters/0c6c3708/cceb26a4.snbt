@@ -1,0 +1,22 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	dependencies: [
+		"a80ddd58"
+	],
+	tasks: [{
+		uid: "d29009bb",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_displayer",
+			tag: {
+				fluid: "emerald_nak"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "cc0dc927",
+		type: "random",
+		table: 0
+	}]
+}

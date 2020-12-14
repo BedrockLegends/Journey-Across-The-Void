@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: 7.0d,
+	dependencies: [
+		"bc42981e"
+	],
+	tasks: [{
+		uid: "38df7cd0",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:pristine_matter_slime"
+		}]
+	}],
+	rewards: [{
+		uid: "0d6420f6",
+		type: "random",
+		table: 0
+	}]
+}

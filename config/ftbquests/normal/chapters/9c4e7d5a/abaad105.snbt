@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	dependencies: [
+		"5b509681"
+	],
+	tasks: [{
+		uid: "0e4b52e0",
+		type: "item",
+		items: [{
+			item: "rftools:screen_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "15da2c38",
+		type: "random",
+		table: 0
+	}]
+}

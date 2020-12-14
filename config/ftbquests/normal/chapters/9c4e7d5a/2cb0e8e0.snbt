@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"e3d5ec3c"
+	],
+	tasks: [{
+		uid: "f20e27b3",
+		type: "item",
+		items: [{
+			item: "rftoolspower:cell1"
+		}]
+	}],
+	rewards: [{
+		uid: "8573165d",
+		type: "random",
+		table: 0
+	}]
+}

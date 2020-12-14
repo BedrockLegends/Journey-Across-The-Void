@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: -3.0d,
+	dependencies: [
+		"9f86fa75"
+	],
+	tasks: [{
+		uid: "f25ac1ab",
+		type: "item",
+		items: [{
+			item: "rftools:clock_module"
+		}]
+	}],
+	rewards: [{
+		uid: "0092fb27",
+		type: "random",
+		table: 0
+	}]
+}

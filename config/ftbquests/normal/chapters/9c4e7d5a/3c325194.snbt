@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	dependencies: [
+		"a6506fa7"
+	],
+	tasks: [{
+		uid: "3253d46a",
+		type: "item",
+		items: [{
+			item: "rftools:machine_infuser"
+		}]
+	}],
+	rewards: [{
+		uid: "9246beba",
+		type: "random",
+		table: 0
+	}]
+}

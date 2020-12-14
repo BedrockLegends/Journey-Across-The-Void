@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	dependencies: [
+		"ae0a1ccb"
+	],
+	tasks: [{
+		uid: "ae473a15",
+		type: "item",
+		items: [{
+			item: "minecraft:quartz"
+		}]
+	}],
+	rewards: [{
+		uid: "7f1c6659",
+		type: "random",
+		table: 0
+	}]
+}

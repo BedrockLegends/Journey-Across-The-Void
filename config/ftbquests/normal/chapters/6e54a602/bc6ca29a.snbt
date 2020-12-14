@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 5.0d,
+	dependencies: [
+		"ec934988"
+	],
+	tasks: [{
+		uid: "880370d0",
+		type: "checkmark",
+		title: "Shots shots shots shots shots shots, Shots shots shots shots shots shots, Shots shots shots shots shots shots",
+		icon: "brewcraft:distiller"
+	}],
+	rewards: [{
+		uid: "01ebf02c",
+		type: "command",
+		auto: "invisible",
+		command: "/say @team has completed the Shots shots shots shots shots shots, Shots shots shots shots shots shots, Shots shots shots shots shots shots quest line!"
+	}]
+}

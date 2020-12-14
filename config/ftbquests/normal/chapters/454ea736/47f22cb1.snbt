@@ -1,0 +1,19 @@
+{
+	x: -11.0d,
+	y: 1.0d,
+	can_repeat: true,
+	dependencies: [
+		"8a6eeb41"
+	],
+	tasks: [{
+		uid: "86339dd8",
+		type: "kill",
+		entity: "twilightforest:raven",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "847ab188",
+		type: "random",
+		table: 0
+	}]
+}

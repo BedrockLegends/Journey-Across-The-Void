@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "07341b27",
+		type: "item",
+		items: [{
+			item: "harvestcraft:oliveitem"
+		}]
+	}],
+	rewards: [{
+		uid: "462a0060",
+		type: "random",
+		table: 3
+	}]
+}

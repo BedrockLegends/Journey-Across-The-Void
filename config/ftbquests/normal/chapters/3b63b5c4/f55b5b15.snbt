@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	description: "this can be used in the solar panel muliblock structure",
+	dependencies: [
+		"17104848"
+	],
+	tasks: [{
+		uid: "d442d8f3",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_piezo"
+		}]
+	}],
+	rewards: [{
+		uid: "b3d6ba0c",
+		type: "random",
+		table: 0
+	}]
+}

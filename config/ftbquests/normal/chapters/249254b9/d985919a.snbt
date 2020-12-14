@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"e2966700"
+	],
+	tasks: [{
+		uid: "2b51a583",
+		type: "item",
+		items: [{
+			item: "realfilingcabinet:modelcabinet"
+		}]
+	}],
+	rewards: [{
+		uid: "dd68ce44",
+		type: "random",
+		table: 0
+	}]
+}

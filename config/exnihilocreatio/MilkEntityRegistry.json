@@ -1,0 +1,14 @@
+[
+  {
+    "entityOnTop": "minecraft:cow",
+    "result": "milk",
+    "amount": 10,
+    "coolDown": 20
+  },
+  {
+    "entityOnTop": "minecraft:mooshroom",
+    "result": "milk",
+    "amount": 10,
+    "coolDown": 20
+  }
+]

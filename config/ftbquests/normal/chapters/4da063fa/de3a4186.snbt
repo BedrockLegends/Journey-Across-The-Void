@@ -1,0 +1,20 @@
+{
+	title: "Research paper (Neptune)",
+	x: 4.0d,
+	y: 1.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "2b2cd561",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_26"
+		}]
+	}],
+	rewards: [{
+		uid: "94c05ef4",
+		type: "random",
+		table: 0
+	}]
+}

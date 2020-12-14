@@ -1,0 +1,25 @@
+{
+	x: 6.0d,
+	y: 1.0d,
+	description: "This can only do tier 1 seed's",
+	tasks: [{
+		uid: "ab647eab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:inferium_seed_extractor",
+			tag: {
+				tier: 1
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "279b6c7d",
+		type: "random",
+		table: 0
+	}]
+}

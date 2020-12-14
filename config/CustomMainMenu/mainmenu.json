@@ -1,0 +1,184 @@
+{
+  "images":{
+    "title": {
+      "image": "menu:logo.png",
+      "alignment": "top_center",
+      "posX": -180,
+      "posY": 30,
+      "width": 372,
+      "height": 64
+      }
+    },
+  "buttons": {
+    "singleplayer": {
+      "text": "menu.singleplayer",
+      "texture": "menu:button.png",
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "alignment": "left_center",
+      "posX": 0,
+      "posY": 0,
+      "width": 201,
+      "height": 20,
+      "action": {
+        "type": "openGui",
+        "gui": "singleplayer"
+      }
+    },
+    "multiplayer": {
+      "text": "menu.multiplayer",
+      "texture": "menu:button.png",
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "alignment": "left_center",
+      "posX": 0,
+      "posY": 25,
+      "width": 201,
+      "height": 20,
+      "action": {
+        "type": "openGui",
+        "gui": "multiplayer"
+      }
+    },
+    "mods": {
+      "text": "fml.menu.mods",
+      "texture": "menu:button.png",
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "alignment": "left_center",
+      "posX": 0,
+      "posY": 50,
+      "width": 201,
+      "height": 20,
+      "action": {
+        "type": "openGui",
+        "gui": "mods"
+      }
+    },
+    "options": {
+      "text": "menu.options",
+      "texture": "menu:button.png",
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "alignment": "right_center",
+      "posX": -200,
+      "posY": 0,
+      "width": 201,
+      "height": 20,
+      "action": {
+        "type": "openGui",
+        "gui": "options"
+      }
+    },
+    "github": {
+      "text": "Issues Tracker",
+      "texture": "menu:button.png",
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "alignment": "top_right",
+      "posX": -150,
+      "posY": 2,
+      "width": 201,
+      "height": 20,
+      "action": {
+        "type": "openLink",
+        "link": "https://github.com/BedrockLegends/Journey-Across-The-Void/issues"
+      }
+    },
+    "twitch": {
+      "text": "Twitch",
+      "posX": -70,
+      "posY": 2,
+      "width": 201,
+      "height": 20,
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "alignment": "top_left",
+      "texture": "menu:button.png",
+      "action": {
+        "type": "openLink",
+        "link": "https://www.twitch.tv/moderngamingworld"
+      }
+    },
+    "quit": {
+      "text": "menu.quit",
+      "texture": "menu:button.png",
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "alignment": "right_center",
+      "posX": -200,
+      "posY": 75,
+      "width": 201,
+      "height": 20,
+      "action": {
+        "type": "quit"
+      }
+    },
+    "hosting": {
+      "text": "Get Servers",
+      "hoverText": "BisectHosting",
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "posX": 0,
+      "posY": 75,
+      "width": 201,
+      "height": 20,
+      "alignment": "left_center",
+      "texture": "menu:button.png",
+      "action": {
+        "type": "openLink",
+        "link": "https://bisecthosting.com/BedrockLegends"
+      }
+    },
+    "discord": {
+      "text": "Discord",
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "posX": -200,
+      "posY": 50,
+      "width": 201,
+      "height": 20,
+      "alignment": "right_center",
+      "texture": "menu:button.png",
+      "action": {
+        "type": "openLink",
+        "link": "https://discord.gg/kvagXuP"
+      }
+    },
+    "language": {
+      "text": "Language",
+      "normalTextColor": 16777215,
+      "hoverTextColor": 15083321,
+      "posX": -200,
+      "posY": 25,
+      "width": 201,
+      "height": 20,
+      "texture": "menu:button.png",
+      "alignment": "right_center",
+      "action": {
+        "type": "openGui",
+        "gui": "languages"
+      }
+    }
+  },
+  "labels": {
+    "mojang": {
+      "text": "Copyright Mojang AB. Do not distribute!",
+      "posX": -197,
+      "posY": -10,
+      "color": 16711680,
+      "alignment": "bottom_right",
+      "action": {
+        "type": "openGui",
+        "gui": "credits"
+      }
+    }
+  },
+  "other": {
+    "background": {
+      "image": "menu:background2.png",
+      "mode": "stretch"
+      }
+    }
+  }
+}

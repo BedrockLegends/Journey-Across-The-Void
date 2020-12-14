@@ -1,0 +1,20 @@
+{
+	title: "Research paper (Venus)",
+	x: 3.0d,
+	y: 3.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "645dbbb2",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_2"
+		}]
+	}],
+	rewards: [{
+		uid: "b4244d43",
+		type: "random",
+		table: 0
+	}]
+}

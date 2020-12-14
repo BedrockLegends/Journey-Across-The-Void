@@ -1,0 +1,24 @@
+{
+	x: -2.0d,
+	y: 6.0d,
+	dependencies: [
+		"115b3789"
+	],
+	tasks: [{
+		uid: "57ef360b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "matc:supremiumcrystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c5387800",
+		type: "random",
+		table: 0
+	}]
+}

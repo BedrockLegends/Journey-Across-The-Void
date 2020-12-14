@@ -1,0 +1,25 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	dependencies: [
+		"e2966700"
+	],
+	tasks: [{
+		uid: "48a2f626",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "realfilingcabinet:folder_mana",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4817eef9",
+		type: "random",
+		table: 0
+	}]
+}

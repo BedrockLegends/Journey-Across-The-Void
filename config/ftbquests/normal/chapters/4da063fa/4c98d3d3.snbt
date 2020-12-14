@@ -1,0 +1,20 @@
+{
+	title: "Research paper (Asteroid's)",
+	x: 1.0d,
+	y: 1.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "59819e24",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_3"
+		}]
+	}],
+	rewards: [{
+		uid: "369ac1c7",
+		type: "random",
+		table: 0
+	}]
+}

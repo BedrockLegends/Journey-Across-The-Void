@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: -0.5d,
+	dependencies: [
+		"e10db739"
+	],
+	tasks: [{
+		uid: "3eed14a0",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_3"
+		}]
+	}],
+	rewards: [{
+		uid: "666a57aa",
+		type: "random",
+		table: 0
+	}]
+}

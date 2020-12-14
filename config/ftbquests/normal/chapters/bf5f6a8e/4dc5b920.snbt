@@ -1,0 +1,25 @@
+{
+	x: 11.0d,
+	y: -2.0d,
+	description: "You need to craft these with any item to set the \"channel\" have 2 tesseracts with the same channel to link them",
+	dependencies: [
+		"8961e8d5",
+		"290070b0",
+		"163f2284"
+	],
+	tasks: [{
+		uid: "f0dedb54",
+		type: "item",
+		items: [{
+			id: "botanicadds:mana_tesseract",
+			tag: {}
+		}],
+		count: 2L,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "23702f46",
+		type: "random",
+		table: 0
+	}]
+}

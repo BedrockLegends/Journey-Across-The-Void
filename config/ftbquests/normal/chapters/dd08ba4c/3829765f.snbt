@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -7.0d,
+	dependencies: [
+		"e1981e1d"
+	],
+	tasks: [{
+		uid: "66f134e4",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_component 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "a6372b60",
+		type: "random",
+		table: 1
+	}]
+}

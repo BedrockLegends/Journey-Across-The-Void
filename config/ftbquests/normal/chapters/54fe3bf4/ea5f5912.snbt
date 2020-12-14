@@ -1,0 +1,19 @@
+{
+	x: 1.0d,
+	y: -5.0d,
+	dependencies: [
+		"10c82d22"
+	],
+	tasks: [{
+		uid: "84d153cc",
+		type: "item",
+		items: [{
+			item: "conarm:resist_mat"
+		}]
+	}],
+	rewards: [{
+		uid: "95924a4c",
+		type: "random",
+		table: 0
+	}]
+}

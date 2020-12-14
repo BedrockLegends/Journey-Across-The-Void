@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: -6.0d,
+	dependencies: [
+		"417585ac"
+	],
+	tasks: [{
+		uid: "702679f6",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 13"
+		}]
+	}],
+	rewards: [{
+		uid: "89ae0914",
+		type: "random",
+		table: 0
+	}]
+}

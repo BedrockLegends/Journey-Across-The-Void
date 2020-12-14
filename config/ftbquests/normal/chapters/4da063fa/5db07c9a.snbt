@@ -1,0 +1,20 @@
+{
+	title: "Research paper (Mars)",
+	x: 4.0d,
+	y: 3.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "810af876",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_1"
+		}]
+	}],
+	rewards: [{
+		uid: "79e43b68",
+		type: "random",
+		table: 0
+	}]
+}

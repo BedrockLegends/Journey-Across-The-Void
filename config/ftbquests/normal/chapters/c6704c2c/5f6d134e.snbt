@@ -1,0 +1,16 @@
+{
+	x: -19.5d,
+	y: -7.0d,
+	text: [
+		"Did you know we have the crop dusting mod in this pack? You can hold shift while next to most plants and they will grow quicker."
+	],
+	dependencies: [
+		"fd723058"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6fcad03a",
+		type: "checkmark",
+		title: "Crop Dusting"
+	}]
+}

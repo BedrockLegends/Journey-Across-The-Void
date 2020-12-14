@@ -1,0 +1,20 @@
+{
+	x: -4.0d,
+	y: -3.0d,
+	description: "You can only link one of these to the altar at a time",
+	dependencies: [
+		"f974182d"
+	],
+	tasks: [{
+		uid: "bf8c9f08",
+		type: "item",
+		items: [{
+			item: "deepmoblearningbm:digital_agonizer"
+		}]
+	}],
+	rewards: [{
+		uid: "f4a19c3d",
+		type: "random",
+		table: 0
+	}]
+}

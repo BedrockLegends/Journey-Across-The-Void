@@ -1,0 +1,17 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "98f08443",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		count: 114L
+	}],
+	rewards: [{
+		uid: "ac54f2e6",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: 2.0d,
+	dependencies: [
+		"a1f65319"
+	],
+	tasks: [{
+		uid: "96252860",
+		type: "item",
+		items: [{
+			item: "simplegenerators:combustion_upgradable"
+		}]
+	}],
+	rewards: [{
+		uid: "bd2886d7",
+		type: "random",
+		table: 0
+	}]
+}

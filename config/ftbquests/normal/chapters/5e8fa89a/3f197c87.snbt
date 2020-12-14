@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	dependencies: [
+		"3cb366b3"
+	],
+	tasks: [{
+		uid: "ef2a6cb7",
+		type: "item",
+		items: [{
+			item: "bloodmagic:slate"
+		}]
+	}],
+	rewards: [{
+		uid: "e4fff0d9",
+		type: "random",
+		table: 0
+	}]
+}

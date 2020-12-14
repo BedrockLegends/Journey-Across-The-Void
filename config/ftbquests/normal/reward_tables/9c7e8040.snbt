@@ -1,0 +1,491 @@
+{
+	title: "Basic quests",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:cobblestone",
+		count: 64
+	},
+	{
+		item: "minecraft:log",
+		count: 64
+	},
+	{
+		item: "minecraft:sand",
+		count: 64
+	},
+	{
+		item: "minecraft:gravel",
+		count: 64
+	},
+	{
+		item: "minecraft:torch",
+		count: 16
+	},
+	{
+		item: "minecraft:enchanting_table"
+	},
+	{
+		item: "minecraft:bed 1 1"
+	},
+	{
+		item: "minecraft:end_crystal"
+	},
+	{
+		item: "minecraft:piston",
+		count: 2
+	},
+	{
+		item: "minecraft:sticky_piston",
+		count: 2
+	},
+	{
+		item: "minecraft:noteblock"
+	},
+	{
+		item: "minecraft:hopper",
+		count: 2
+	},
+	{
+		item: "minecraft:coal",
+		count: 8
+	},
+	{
+		item: "minecraft:ender_pearl",
+		count: 2
+	},
+	{
+		item: "minecraft:blaze_powder",
+		count: 4
+	},
+	{
+		item: "minecraft:ghast_tear",
+		count: 2
+	},
+	{
+		item: "minecraft:clock"
+	},
+	{
+		item: "minecraft:compass"
+	},
+	{
+		item: "minecraft:cooked_beef",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_chicken",
+		count: 8
+	},
+	{
+		item: "minecraft:apple",
+		count: 8
+	},
+	{
+		item: "minecraft:cookie",
+		count: 8
+	},
+	{
+		item: "minecraft:cake",
+		count: 8
+	},
+	{
+		item: "minecraft:wheat_seeds",
+		count: 8
+	},
+	{
+		item: "minecraft:pumpkin_seeds",
+		count: 8
+	},
+	{
+		item: "minecraft:melon_seeds",
+		count: 8
+	},
+	{
+		item: "minecraft:baked_potato",
+		count: 8
+	},
+	{
+		item: "minecraft:cooked_rabbit",
+		count: 8
+	},
+	{
+		item: "minecraft:pumpkin_pie",
+		count: 8
+	},
+	{
+		item: "minecraft:golden_carrot",
+		count: 8
+	},
+	{
+		item: "minecraft:golden_apple",
+		count: 4
+	},
+	{
+		item: "minecraft:golden_apple 1 1",
+		count: 2
+	},
+	{
+		item: "exnihilocreatio:item_doll 1 1"
+	},
+	{
+		item: "exnihilocreatio:item_doll 1 2"
+	},
+	{
+		item: "exnihilocreatio:item_doll 1 4"
+	},
+	{
+		item: "exnihilocreatio:item_doll 1 5"
+	},
+	{
+		item: "exnihilocreatio:item_doll 1 6"
+	},
+	{
+		item: "exnihilocreatio:item_doll 1 7"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "excompressum:bait"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "excompressum:bait",
+			Damage: 1s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "excompressum:bait",
+			Damage: 6s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "excompressum:bait",
+			Damage: 10s
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "excompressum:bait",
+			Damage: 12s
+		}
+	},
+	{
+		item: "environmentaltech:litherite_crystal",
+		count: 8
+	},
+	{
+		item: "enderstorage:ender_storage"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderstorage:ender_pouch"
+		}
+	},
+	{
+		item: "enderstorage:ender_storage 1 1"
+	},
+	{
+		item: "enderutilities:enderpart 1 52"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_ender_food"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderio:item_yeta_wrench"
+		}
+	},
+	{
+		item: "enderio:item_extract_speed_upgrade",
+		count: 5
+	},
+	{
+		item: "enderio:item_liquid_conduit 1 2",
+		count: 8
+	},
+	{
+		item: "enderio:item_power_conduit 1 2",
+		count: 8
+	},
+	{
+		item: "enderio:item_redstone_conduit",
+		count: 8
+	},
+	{
+		item: "enderio:item_item_conduit",
+		count: 8
+	},
+	{
+		item: "enderio:item_me_conduit",
+		count: 8
+	},
+	{
+		item: "deepmoblearning:glitch_heart",
+		count: 2
+	},
+	{
+		item: "deepmoblearning:pristine_matter_blaze",
+		count: 2
+	},
+	{
+		item: "deepmoblearning:pristine_matter_ghast",
+		count: 2
+	},
+	{
+		item: "deepmoblearning:pristine_matter_wither_skeleton",
+		count: 2
+	},
+	{
+		item: "deepmoblearning:pristine_matter_enderman",
+		count: 2
+	},
+	{
+		item: "deepmoblearning:polymer_clay",
+		count: 64
+	},
+	{
+		item: "cyclicmagic:inventory_food"
+	},
+	{
+		item: "cyclicmagic:crafting_food"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cyclicmagic:ender_dungeon"
+		}
+	},
+	{
+		item: "cyclicmagic:heart_food"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cyclicmagic:glowing_helmet",
+			tag: {}
+		}
+	},
+	{
+		item: "cookingforblockheads:cow_jar"
+	},
+	{
+		item: "cookingforblockheads:sink"
+	},
+	{
+		item: "cookingforblockheads:oven"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "chisel:chisel_hitech",
+			tag: {
+				chiseldata: {}
+			}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:wrench"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "fluidcows:cow_halter"
+		}
+	},
+	{
+		item: "fluidcows:stall"
+	},
+	{
+		item: "thermaldynamics:servo"
+	},
+	{
+		item: "thermalexpansion:augment 1 128"
+	},
+	{
+		item: "minecraft:concrete 1 1",
+		count: 8
+	},
+	{
+		item: "snad:snad",
+		count: 4
+	},
+	{
+		item: "cyberware:neuropozyne",
+		count: 8
+	},
+	{
+		item: "minecraft:furnace",
+		count: 2
+	},
+	{
+		item: "actuallyadditions:block_giant_chest"
+	},
+	{
+		item: "betteranimalsplus:handoffate"
+	},
+	{
+		item: "thermaldynamics:duct_16 1 3",
+		count: 8
+	},
+	{
+		item: "thermaldynamics:duct_32 1 1",
+		count: 8
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "betterbuilderswands:wanddiamond"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:inferium_seed_extractor",
+			tag: {
+				tier: 1
+			}
+		}
+	},
+	{
+		item: "enderio:item_material 1 20",
+		count: 2
+	},
+	{
+		item: "pneumaticcraft:ingot_iron_compressed",
+		count: 4
+	},
+	{
+		item: "bonsaitrees:bonsaipot"
+	},
+	{
+		item: "bonsaitrees:bonsaipot 1 1"
+	},
+	{
+		item: "actuallyadditions:item_solidified_experience",
+		count: 16
+	},
+	{
+		item: "ae2wtlib:infinity_booster_card",
+		count: 4
+	},
+	{
+		item: "environmentaltech:erodium_crystal",
+		count: 4
+	},
+	{
+		item: "environmentaltech:kyronite_crystal"
+	},
+	{
+		item: "environmentaltech:pladium_crystal"
+	},
+	{
+		item: "botania:blacklotus",
+		count: 2
+	},
+	{
+		item: "brewcraft:beachrumitem"
+	},
+	{
+		item: "brewcraft:cherryvodkaitem"
+	},
+	{
+		item: "brewcraft:coconutrumitem"
+	},
+	{
+		item: "brewcraft:handmadevodkaitem"
+	},
+	{
+		item: "brewcraft:hardapplecideritem"
+	},
+	{
+		item: "brewcraft:hardlemonadeitem"
+	},
+	{
+		item: "brewcraft:honeymeaditem"
+	},
+	{
+		item: "brewcraft:pinkmoscatoitem"
+	},
+	{
+		item: "brewcraft:pmaxrieslingitem"
+	},
+	{
+		item: "brewcraft:rennalgolditem"
+	},
+	{
+		item: "brewcraft:riverchardonnayitem"
+	},
+	{
+		item: "brewcraft:sakeitem"
+	},
+	{
+		item: "brewcraft:savannazinfandelitem"
+	},
+	{
+		item: "brewcraft:spicedrumitem"
+	},
+	{
+		item: "brewcraft:swampmerlotitem"
+	},
+	{
+		item: "brewcraft:tiagapinotnoiritem"
+	},
+	{
+		item: "brewcraft:totalvodkaitem"
+	},
+	{
+		item: "brewcraft:uglyavocadoginitem"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "enderutilities:dolly"
+		}
+	}]
+}

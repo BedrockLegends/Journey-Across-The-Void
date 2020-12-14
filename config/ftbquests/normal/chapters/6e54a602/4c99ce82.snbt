@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 2.0d,
+	dependencies: [
+		"69f2365a"
+	],
+	tasks: [{
+		uid: "c214cb5a",
+		type: "checkmark",
+		title: "Steve's carts",
+		icon: "stevescarts:blockcartassembler"
+	}],
+	rewards: [{
+		uid: "f7b7f47e",
+		type: "command",
+		auto: "invisible",
+		command: "/say @team has completed the Steve's carts quest line!"
+	}]
+}

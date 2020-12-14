@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: -2.0d,
+	dependencies: [
+		"54fe3bf4"
+	],
+	tasks: [{
+		uid: "338edd4f",
+		type: "checkmark",
+		title: "Tinker's construct",
+		icon: "tconstruct:tooltables"
+	}],
+	rewards: [{
+		uid: "cb53f8f7",
+		type: "command",
+		auto: "invisible",
+		command: "/say @team has completed the Tinker's construct quest line!"
+	}]
+}

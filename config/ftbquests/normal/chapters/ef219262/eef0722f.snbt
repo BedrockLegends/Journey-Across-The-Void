@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"3fd9bdaf"
+	],
+	tasks: [{
+		uid: "ea9918ad",
+		type: "biome",
+		biome: "erebus:ulterior_outback"
+	}],
+	rewards: [{
+		uid: "02fef22b",
+		type: "random",
+		table: 0
+	}]
+}

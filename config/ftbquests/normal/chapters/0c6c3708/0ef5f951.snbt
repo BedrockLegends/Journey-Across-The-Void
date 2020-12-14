@@ -1,0 +1,22 @@
+{
+	x: 10.0d,
+	y: -2.0d,
+	dependencies: [
+		"a80ddd58"
+	],
+	tasks: [{
+		uid: "6b5cf8ab",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_displayer",
+			tag: {
+				fluid: "neptunium_237_fluoride"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "f664bf21",
+		type: "random",
+		table: 0
+	}]
+}

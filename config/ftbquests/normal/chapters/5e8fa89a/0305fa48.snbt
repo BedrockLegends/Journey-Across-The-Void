@@ -1,0 +1,25 @@
+{
+	x: -2.0d,
+	y: -4.0d,
+	dependencies: [
+		"3cb366b3"
+	],
+	tasks: [{
+		uid: "271af575",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:weak"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "a78a592e",
+		type: "random",
+		table: 0
+	}]
+}

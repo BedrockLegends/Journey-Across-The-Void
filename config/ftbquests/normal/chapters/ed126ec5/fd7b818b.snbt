@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 1.0d,
+	dependencies: [
+		"87b1a945"
+	],
+	tasks: [{
+		uid: "8178fc63",
+		type: "item",
+		items: [{
+			item: "roots:imbuer"
+		}]
+	}],
+	rewards: [{
+		uid: "279eae80",
+		type: "random",
+		table: 0
+	}]
+}

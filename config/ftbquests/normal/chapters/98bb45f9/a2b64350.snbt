@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: -10.0d,
+	dependencies: [
+		"50bf8478"
+	],
+	tasks: [{
+		uid: "f8217fb1",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:flux_compressor"
+		}]
+	}],
+	rewards: [{
+		uid: "3967b421",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "865396e8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:pistachioitem"
+		}]
+	}],
+	rewards: [{
+		uid: "19ce681d",
+		type: "random",
+		table: 3
+	}]
+}

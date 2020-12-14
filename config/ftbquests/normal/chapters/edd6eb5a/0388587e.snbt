@@ -1,0 +1,15 @@
+{
+	title: "Bedrock",
+	x: 0.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "adb105c1",
+		type: "checkmark",
+		title: "This is real bedrock once placed it cannot be moved choose carefully"
+	}],
+	rewards: [{
+		uid: "0d5153f5",
+		type: "item",
+		item: "minecraft:bedrock"
+	}]
+}

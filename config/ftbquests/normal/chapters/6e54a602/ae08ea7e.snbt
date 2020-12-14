@@ -1,0 +1,25 @@
+{
+	title: "Fluid Cows",
+	icon: {
+		id: "fluidcows:cow_displayer",
+		tag: {
+			fluid: "milk"
+		}
+	},
+	x: 5.0d,
+	y: -4.0d,
+	dependencies: [
+		"0c6c3708"
+	],
+	tasks: [{
+		uid: "f2daf275",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "6c5d5a64",
+		type: "command",
+		title: "Fluid Cows",
+		auto: "invisible",
+		command: "/say @team has completed the Fluid Cows quest line!"
+	}]
+}

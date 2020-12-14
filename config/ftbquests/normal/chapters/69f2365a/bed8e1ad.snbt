@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 4.0d,
+	dependencies: [
+		"42c24b01"
+	],
+	tasks: [{
+		uid: "ed2d49dd",
+		type: "item",
+		items: [{
+			item: "stevescarts:cartmodule 1 89"
+		}]
+	}],
+	rewards: [{
+		uid: "43f8fa34",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"abaad105"
+	],
+	tasks: [{
+		uid: "ea0fefd2",
+		type: "item",
+		items: [{
+			item: "rftools:screen"
+		}]
+	}],
+	rewards: [{
+		uid: "7b80ec31",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -6.0d,
+	y: 2.0d,
+	dependencies: [
+		"ffe1b4e5"
+	],
+	tasks: [{
+		uid: "56d6cc7a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:maplecandiedbaconitem"
+		}],
+		count: 500000L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "f44681d5",
+		type: "random",
+		table: 1
+	}]
+}

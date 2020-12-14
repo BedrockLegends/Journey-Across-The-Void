@@ -1,0 +1,20 @@
+{
+	title: "Research paper (Mercury)",
+	x: 2.0d,
+	y: 3.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "24e08463",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_9"
+		}]
+	}],
+	rewards: [{
+		uid: "50ab03ed",
+		type: "random",
+		table: 0
+	}]
+}

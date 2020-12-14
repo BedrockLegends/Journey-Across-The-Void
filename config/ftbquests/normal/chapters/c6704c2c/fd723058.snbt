@@ -1,0 +1,13 @@
+{
+	title: "Disclaimer",
+	x: -18.0d,
+	y: -7.0d,
+	text: [
+		"Dont waste any of the materials at the start as its all needed to progress failure to do so will result in you being stuck, if you do become stuck you can redeem the emergency items and try again."
+	],
+	tasks: [{
+		uid: "b9062410",
+		type: "checkmark",
+		title: "I Accept"
+	}]
+}

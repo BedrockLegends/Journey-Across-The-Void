@@ -1,0 +1,19 @@
+{
+	icon: "sky_orchards:sapling_lava",
+	x: -5.0d,
+	y: -3.0d,
+	dependencies: [
+		"3a249687"
+	],
+	tasks: [{
+		uid: "b458b0a5",
+		type: "checkmark",
+		title: "Tree's o Plenty"
+	}],
+	rewards: [{
+		uid: "061d74e6",
+		type: "command",
+		auto: "invisible",
+		command: "/say @team has completed the Tree's o Plenty quest line!"
+	}]
+}

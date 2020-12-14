@@ -1,0 +1,7 @@
+{
+	title: "Ender Utilities",
+	icon: "enderutilities:barrel",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

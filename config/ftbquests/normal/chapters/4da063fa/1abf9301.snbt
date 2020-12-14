@@ -1,0 +1,20 @@
+{
+	title: "Research paper (Pluto)",
+	x: 3.0d,
+	y: 1.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "717056c1",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_27"
+		}]
+	}],
+	rewards: [{
+		uid: "00c0e4a7",
+		type: "random",
+		table: 0
+	}]
+}

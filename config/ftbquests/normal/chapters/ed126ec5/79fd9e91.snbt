@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: -4.0d,
+	dependencies: [
+		"93513dae"
+	],
+	tasks: [{
+		uid: "3d53072d",
+		type: "item",
+		items: [{
+			item: "roots:elemental_soil"
+		}]
+	}],
+	rewards: [{
+		uid: "b913648b",
+		type: "random",
+		table: 0
+	}]
+}

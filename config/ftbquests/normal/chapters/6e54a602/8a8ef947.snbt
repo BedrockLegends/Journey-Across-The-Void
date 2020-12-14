@@ -1,0 +1,25 @@
+{
+	x: 5.0d,
+	y: -2.0d,
+	dependencies: [
+		"9ebec9e4"
+	],
+	tasks: [{
+		uid: "31058270",
+		type: "checkmark",
+		title: "Food o glorious food",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cookingforblockheads:recipe_book",
+			Damage: 1s
+		}
+	}],
+	rewards: [{
+		uid: "d34c49c6",
+		type: "command",
+		auto: "invisible",
+		command: "/say @team has completed the Food o glorious food quest line!"
+	}]
+}

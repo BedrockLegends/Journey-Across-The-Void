@@ -1,0 +1,19 @@
+{
+	x: -12.0d,
+	y: -3.0d,
+	dependencies: [
+		"7d5a726e"
+	],
+	tasks: [{
+		uid: "dbf413c7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "b2d049b3",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 0.0d,
+	dependencies: [
+		"d0a1d7e3"
+	],
+	tasks: [{
+		uid: "2838f5a8",
+		type: "item",
+		items: [{
+			item: "sky_orchards:sapling_cookie"
+		}]
+	}],
+	rewards: [{
+		uid: "33a7f272",
+		type: "random",
+		table: 0
+	}]
+}

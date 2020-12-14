@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: -5.0d,
+	dependencies: [
+		"a546e25b"
+	],
+	tasks: [{
+		uid: "0cbe88a2",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:assembly_program"
+		}]
+	}],
+	rewards: [{
+		uid: "d74260a6",
+		type: "random",
+		table: 0
+	}]
+}

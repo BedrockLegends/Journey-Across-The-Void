@@ -1,0 +1,19 @@
+{
+	x: 11.0d,
+	y: 6.0d,
+	dependencies: [
+		"519a8621"
+	],
+	tasks: [{
+		uid: "1cddc776",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:retriever 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "e5c514bb",
+		type: "random",
+		table: 0
+	}]
+}

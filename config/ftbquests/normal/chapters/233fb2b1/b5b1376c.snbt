@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"281affc7"
+	],
+	tasks: [{
+		uid: "a3b5452f",
+		type: "item",
+		items: [{
+			item: "gendustry:mutagen_producer"
+		}]
+	}],
+	rewards: [{
+		uid: "cc97727c",
+		type: "random",
+		table: 0
+	}]
+}

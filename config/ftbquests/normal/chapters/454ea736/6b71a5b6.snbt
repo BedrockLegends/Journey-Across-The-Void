@@ -1,0 +1,19 @@
+{
+	x: -8.0d,
+	y: 2.0d,
+	can_repeat: true,
+	dependencies: [
+		"8a6eeb41"
+	],
+	tasks: [{
+		uid: "6ca2dc85",
+		type: "kill",
+		entity: "twilightforest:minoshroom",
+		value: 2L
+	}],
+	rewards: [{
+		uid: "0262b5eb",
+		type: "random",
+		table: 0
+	}]
+}

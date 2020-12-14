@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	dependencies: [
+		"32fd0136"
+	],
+	tasks: [{
+		uid: "6eff5ba1",
+		type: "item",
+		items: [{
+			item: "rftools:matter_receiver"
+		}]
+	}],
+	rewards: [{
+		uid: "5055d983",
+		type: "random",
+		table: 0
+	}]
+}

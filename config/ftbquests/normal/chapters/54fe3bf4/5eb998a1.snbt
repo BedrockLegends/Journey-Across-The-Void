@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: -5.0d,
+	dependencies: [
+		"301482a6"
+	],
+	tasks: [{
+		uid: "e4905aed",
+		type: "item",
+		items: [{
+			item: "conarm:armorstation"
+		}]
+	}],
+	rewards: [{
+		uid: "fcfd40b0",
+		type: "random",
+		table: 0
+	}]
+}

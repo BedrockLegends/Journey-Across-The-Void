@@ -1,0 +1,14 @@
+{
+	"minecraft:lava:-1": 4,
+	"thermalfoundation:fluid_pyrotheum:-1": 30,
+	"minecraft:torch:-1": 1,
+	"tp:lava_infused_stone": 6,
+	"twilightforest:block_storage:4": 50,
+	"bigreactors:blockcyanite": 5,
+	"bigreactors:blockludicrite": 40,
+	"cfm:toaster": 25,
+	"enderio:block_alloy_endergy:3": 100,
+	"botania:storage:1": 100,
+	"draconicevolution:draconic_block": 125,
+	"botania:blazeblock": 20
+}

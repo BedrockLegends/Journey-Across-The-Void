@@ -1,0 +1,20 @@
+{
+	title: "Research paper (Uranus)",
+	x: 5.0d,
+	y: 1.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "909e93f9",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_24"
+		}]
+	}],
+	rewards: [{
+		uid: "a33ab9bb",
+		type: "random",
+		table: 0
+	}]
+}

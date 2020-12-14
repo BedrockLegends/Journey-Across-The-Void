@@ -1,0 +1,19 @@
+{
+	x: 18.0d,
+	y: -6.0d,
+	dependencies: [
+		"5bf42a57"
+	],
+	tasks: [{
+		uid: "50ebdde5",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:jet_boots_upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "6cceb3e9",
+		type: "random",
+		table: 0
+	}]
+}

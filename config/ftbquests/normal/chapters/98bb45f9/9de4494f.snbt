@@ -1,0 +1,19 @@
+{
+	x: 13.0d,
+	y: -9.0d,
+	dependencies: [
+		"6c7e8620"
+	],
+	tasks: [{
+		uid: "3d2378c2",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:search_upgrade"
+		}]
+	}],
+	rewards: [{
+		uid: "c938084d",
+		type: "random",
+		table: 0
+	}]
+}

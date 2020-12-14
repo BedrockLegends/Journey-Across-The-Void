@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "3e1bf3f2",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcontroller"
+		}]
+	}],
+	rewards: [{
+		uid: "24d1225e",
+		type: "random",
+		table: 0
+	}]
+}

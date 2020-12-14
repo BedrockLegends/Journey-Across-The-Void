@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 4.0d,
+	dependencies: [
+		"dc3501df"
+	],
+	tasks: [{
+		uid: "44cdebe4",
+		type: "item",
+		items: [{
+			item: "botania:spreader"
+		}]
+	}],
+	rewards: [{
+		uid: "7d7df5f4",
+		type: "random",
+		table: 0
+	}]
+}

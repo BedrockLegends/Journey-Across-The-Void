@@ -1,0 +1,29 @@
+{
+	x: -12.5d,
+	y: -6.5d,
+	description: "Tinkers' patterns can be changed even after they have been turned into another pattern to do so just place the used pattern into the stencil table and then select a new pattern",
+	dependencies: [
+		"83fa1337"
+	],
+	tasks: [{
+		uid: "ed4fdb62",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1,
+					Damage: 0
+				}
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b1350782",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -1.0d,
+	y: 3.0d,
+	description: "You can rename the smiley cloud to have special properties a few names you can try are...",
+	text: [
+		"Etho, ellpeck, vazkii, kitty, direwolf20, Xisuma, lampi, acid, wolle"
+	],
+	tasks: [{
+		uid: "c2327b4c",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_smiley_cloud"
+		}]
+	}],
+	rewards: [{
+		uid: "9c1869f0",
+		type: "item",
+		item: "actuallyadditions:block_smiley_cloud",
+		count: 63
+	}]
+}

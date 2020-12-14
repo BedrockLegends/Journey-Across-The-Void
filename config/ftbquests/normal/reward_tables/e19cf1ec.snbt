@@ -1,0 +1,394 @@
+{
+	title: "food rewards",
+	loot_size: 1,
+	rewards: [{
+		item: "harvestcraft:cauliflowerseeditem"
+	},
+	{
+		item: "harvestcraft:broccoliseeditem"
+	},
+	{
+		item: "harvestcraft:blackberryseeditem"
+	},
+	{
+		item: "harvestcraft:blueberryseeditem"
+	},
+	{
+		item: "harvestcraft:candleberryseeditem"
+	},
+	{
+		item: "harvestcraft:raspberryseeditem"
+	},
+	{
+		item: "harvestcraft:strawberryseeditem"
+	},
+	{
+		item: "harvestcraft:cactusfruitseeditem"
+	},
+	{
+		item: "harvestcraft:asparagusseeditem"
+	},
+	{
+		item: "harvestcraft:barleyseeditem"
+	},
+	{
+		item: "harvestcraft:oatsseeditem"
+	},
+	{
+		item: "harvestcraft:ryeseeditem"
+	},
+	{
+		item: "harvestcraft:cornseeditem"
+	},
+	{
+		item: "harvestcraft:bambooshootseeditem"
+	},
+	{
+		item: "harvestcraft:cantaloupeseeditem"
+	},
+	{
+		item: "harvestcraft:cucumberseeditem"
+	},
+	{
+		item: "harvestcraft:wintersquashseeditem"
+	},
+	{
+		item: "harvestcraft:zucchiniseeditem"
+	},
+	{
+		item: "harvestcraft:beetseeditem"
+	},
+	{
+		item: "harvestcraft:onionseeditem"
+	},
+	{
+		item: "harvestcraft:parsnipseeditem"
+	},
+	{
+		item: "harvestcraft:peanutseeditem"
+	},
+	{
+		item: "harvestcraft:radishseeditem"
+	},
+	{
+		item: "harvestcraft:rutabagaseeditem"
+	},
+	{
+		item: "harvestcraft:sweetpotatoseeditem"
+	},
+	{
+		item: "harvestcraft:turnipseeditem"
+	},
+	{
+		item: "harvestcraft:rhubarbseeditem"
+	},
+	{
+		item: "harvestcraft:celeryseeditem"
+	},
+	{
+		item: "harvestcraft:garlicseeditem"
+	},
+	{
+		item: "harvestcraft:gingerseeditem"
+	},
+	{
+		item: "harvestcraft:spiceleafseeditem"
+	},
+	{
+		item: "harvestcraft:teaseeditem"
+	},
+	{
+		item: "harvestcraft:coffeeseeditem"
+	},
+	{
+		item: "harvestcraft:mustardseeditem"
+	},
+	{
+		item: "harvestcraft:leekseeditem"
+	},
+	{
+		item: "harvestcraft:lettuceseeditem"
+	},
+	{
+		item: "harvestcraft:scallionseeditem"
+	},
+	{
+		item: "harvestcraft:artichokeseeditem"
+	},
+	{
+		item: "harvestcraft:brusselsproutseeditem"
+	},
+	{
+		item: "harvestcraft:cabbageseeditem"
+	},
+	{
+		item: "harvestcraft:spinachseeditem"
+	},
+	{
+		item: "harvestcraft:whitemushroomseeditem"
+	},
+	{
+		item: "harvestcraft:beanseeditem"
+	},
+	{
+		item: "harvestcraft:soybeanseeditem"
+	},
+	{
+		item: "harvestcraft:bellpepperseeditem"
+	},
+	{
+		item: "harvestcraft:chilipepperseeditem"
+	},
+	{
+		item: "harvestcraft:eggplantseeditem"
+	},
+	{
+		item: "harvestcraft:okraseeditem"
+	},
+	{
+		item: "harvestcraft:peasseeditem"
+	},
+	{
+		item: "harvestcraft:tomatoseeditem"
+	},
+	{
+		item: "harvestcraft:cottonseeditem"
+	},
+	{
+		item: "harvestcraft:pineappleseeditem"
+	},
+	{
+		item: "harvestcraft:grapeseeditem"
+	},
+	{
+		item: "harvestcraft:kiwiseeditem"
+	},
+	{
+		item: "harvestcraft:cranberryseeditem"
+	},
+	{
+		item: "harvestcraft:riceseeditem"
+	},
+	{
+		item: "harvestcraft:seaweedseeditem"
+	},
+	{
+		item: "harvestcraft:curryleafseeditem"
+	},
+	{
+		item: "harvestcraft:sesameseedsseeditem"
+	},
+	{
+		item: "harvestcraft:waterchestnutseeditem"
+	},
+	{
+		item: "harvestcraft:gigapickleseeditem"
+	},
+	{
+		item: "harvestcraft:kaleseeditem"
+	},
+	{
+		item: "harvestcraft:agaveseeditem"
+	},
+	{
+		item: "harvestcraft:amaranthseeditem"
+	},
+	{
+		item: "harvestcraft:arrowrootseeditem"
+	},
+	{
+		item: "harvestcraft:cassavaseeditem"
+	},
+	{
+		item: "harvestcraft:chickpeaseeditem"
+	},
+	{
+		item: "harvestcraft:elderberryseeditem"
+	},
+	{
+		item: "harvestcraft:flaxseeditem"
+	},
+	{
+		item: "harvestcraft:greengrapeseeditem"
+	},
+	{
+		item: "harvestcraft:huckleberryseeditem"
+	},
+	{
+		item: "harvestcraft:jicamaseeditem"
+	},
+	{
+		item: "harvestcraft:juteseeditem"
+	},
+	{
+		item: "harvestcraft:kenafseeditem"
+	},
+	{
+		item: "harvestcraft:kohlrabiseeditem"
+	},
+	{
+		item: "harvestcraft:lentilseeditem"
+	},
+	{
+		item: "harvestcraft:milletseeditem"
+	},
+	{
+		item: "harvestcraft:mulberryseeditem"
+	},
+	{
+		item: "harvestcraft:quinoaseeditem"
+	},
+	{
+		item: "harvestcraft:sisalseeditem"
+	},
+	{
+		item: "harvestcraft:taroseeditem"
+	},
+	{
+		item: "harvestcraft:tomatilloseeditem"
+	},
+	{
+		item: "harvestcraft:juniperberryseeditem"
+	},
+	{
+		item: "harvestcraft:date_sapling"
+	},
+	{
+		item: "harvestcraft:papaya_sapling"
+	},
+	{
+		item: "harvestcraft:cherry_sapling"
+	},
+	{
+		item: "harvestcraft:fig_sapling"
+	},
+	{
+		item: "harvestcraft:soursop_sapling"
+	},
+	{
+		item: "harvestcraft:dragonfruit_sapling"
+	},
+	{
+		item: "harvestcraft:rambutan_sapling"
+	},
+	{
+		item: "harvestcraft:jackfruit_sapling"
+	},
+	{
+		item: "harvestcraft:passionfruit_sapling"
+	},
+	{
+		item: "harvestcraft:apple_sapling"
+	},
+	{
+		item: "harvestcraft:lemon_sapling"
+	},
+	{
+		item: "harvestcraft:pear_sapling"
+	},
+	{
+		item: "harvestcraft:olive_sapling"
+	},
+	{
+		item: "harvestcraft:spiderweb_sapling"
+	},
+	{
+		item: "harvestcraft:grapefruit_sapling"
+	},
+	{
+		item: "harvestcraft:pomegranate_sapling"
+	},
+	{
+		item: "harvestcraft:cashew_sapling"
+	},
+	{
+		item: "harvestcraft:vanillabean_sapling"
+	},
+	{
+		item: "harvestcraft:starfruit_sapling"
+	},
+	{
+		item: "harvestcraft:banana_sapling"
+	},
+	{
+		item: "harvestcraft:plum_sapling"
+	},
+	{
+		item: "harvestcraft:avocado_sapling"
+	},
+	{
+		item: "harvestcraft:pecan_sapling"
+	},
+	{
+		item: "harvestcraft:pistachio_sapling"
+	},
+	{
+		item: "harvestcraft:hazelnut_sapling"
+	},
+	{
+		item: "harvestcraft:lime_sapling"
+	},
+	{
+		item: "harvestcraft:peppercorn_sapling"
+	},
+	{
+		item: "harvestcraft:almond_sapling"
+	},
+	{
+		item: "harvestcraft:gooseberry_sapling"
+	},
+	{
+		item: "harvestcraft:peach_sapling"
+	},
+	{
+		item: "harvestcraft:chestnut_sapling"
+	},
+	{
+		item: "harvestcraft:pawpaw_sapling"
+	},
+	{
+		item: "harvestcraft:coconut_sapling"
+	},
+	{
+		item: "harvestcraft:mango_sapling"
+	},
+	{
+		item: "harvestcraft:apricot_sapling"
+	},
+	{
+		item: "harvestcraft:breadfruit_sapling"
+	},
+	{
+		item: "harvestcraft:cinnamon_sapling"
+	},
+	{
+		item: "harvestcraft:durian_sapling"
+	},
+	{
+		item: "harvestcraft:guava_sapling"
+	},
+	{
+		item: "harvestcraft:lychee_sapling"
+	},
+	{
+		item: "harvestcraft:maple_sapling"
+	},
+	{
+		item: "harvestcraft:nutmeg_sapling"
+	},
+	{
+		item: "harvestcraft:orange_sapling"
+	},
+	{
+		item: "harvestcraft:paperbark_sapling"
+	},
+	{
+		item: "harvestcraft:persimmon_sapling"
+	},
+	{
+		item: "harvestcraft:tamarind_sapling"
+	},
+	{
+		item: "harvestcraft:walnut_sapling"
+	}]
+}

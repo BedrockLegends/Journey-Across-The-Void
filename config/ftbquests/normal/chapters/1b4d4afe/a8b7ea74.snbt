@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: -8.0d,
+	tasks: [{
+		uid: "56a1efea",
+		type: "item",
+		items: [{
+			item: "logisticspipes:chip_basic_raw"
+		}]
+	}],
+	rewards: [{
+		uid: "a1aa6cc3",
+		type: "random",
+		table: 0
+	}]
+}

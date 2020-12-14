@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	description: "Place one of these down and select the quest then pipe your items into one of these to submit it for the quest",
+	size: 2.0d,
+	tasks: [{
+		uid: "4babdeb0",
+		type: "item",
+		items: [{
+			item: "ftbquests:screen"
+		}],
+		count: 15L,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bfffbc56",
+		type: "random",
+		table: 0
+	}]
+}

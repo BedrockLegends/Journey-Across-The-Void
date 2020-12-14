@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: -10.0d,
+	dependencies: [
+		"9c94fcfa"
+	],
+	tasks: [{
+		uid: "8a4d10d4",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 62"
+		}]
+	}],
+	rewards: [{
+		uid: "8191c3de",
+		type: "random",
+		table: 0
+	}]
+}

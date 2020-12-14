@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -5.0d,
+	dependencies: [
+		"10c82d22"
+	],
+	tasks: [{
+		uid: "08ff84c5",
+		type: "item",
+		items: [{
+			item: "conarm:gauntlet_mat_attack"
+		}]
+	}],
+	rewards: [{
+		uid: "e9a45d70",
+		type: "random",
+		table: 0
+	}]
+}

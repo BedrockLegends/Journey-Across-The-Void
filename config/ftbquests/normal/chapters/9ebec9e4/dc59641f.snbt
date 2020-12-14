@@ -1,0 +1,16 @@
+{
+	x: -8.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "54307ee7",
+		type: "item",
+		items: [{
+			item: "harvestcraft:candleberryitem"
+		}]
+	}],
+	rewards: [{
+		uid: "975efeed",
+		type: "random",
+		table: 3
+	}]
+}

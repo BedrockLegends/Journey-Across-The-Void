@@ -1,0 +1,28 @@
+{
+	title: "Arc Furnace Electrodes",
+	x: -4.0d,
+	y: -8.0d,
+	description: "You can obtain this by trading with a Engineer villager. there are 2 engineer villagers make sure your trading with the immersive engineering villager, the other is from actually additions",
+	dependencies: [
+		"6f879067"
+	],
+	tasks: [{
+		uid: "41d81b77",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "electrode"
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "4c9cadb2",
+		type: "random",
+		table: 0
+	}]
+}

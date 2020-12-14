@@ -1,0 +1,28 @@
+{
+	x: 6.0d,
+	y: 5.0d,
+	description: "This can do all seeds tier 5 and below",
+	dependencies: [
+		"5f572bc4"
+	],
+	tasks: [{
+		uid: "92dc81af",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:supremium_seed_extractor",
+			tag: {
+				tier: 5
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a5caf3e2",
+		type: "random",
+		table: 0
+	}]
+}

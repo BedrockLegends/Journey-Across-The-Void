@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: -2.0d,
+	dependencies: [
+		"ba2dc604"
+	],
+	tasks: [{
+		uid: "628ac451",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_player_interface"
+		}]
+	}],
+	rewards: [{
+		uid: "87fba414",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 13.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "e001ea08",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 22"
+		}]
+	}],
+	rewards: [{
+		uid: "ba668b69",
+		type: "random",
+		table: 0
+	}]
+}

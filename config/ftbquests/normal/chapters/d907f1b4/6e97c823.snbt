@@ -1,0 +1,25 @@
+{
+	x: -13.0d,
+	y: -9.0d,
+	description: "If your quest doesnt get completed drop both seeds and re-pick them up",
+	dependencies: [
+		"b07240de"
+	],
+	tasks: [{
+		uid: "31d1261b",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:crystal_seed",
+			tag: {
+				progress: 600
+			},
+			Damage: 600s
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "06f32bee",
+		type: "random",
+		table: 0
+	}]
+}

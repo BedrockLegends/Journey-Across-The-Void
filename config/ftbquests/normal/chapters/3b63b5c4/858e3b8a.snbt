@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: 4.0d,
+	dependencies: [
+		"217dc2c9"
+	],
+	tasks: [{
+		uid: "3d02a63e",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cont_5"
+		}]
+	}],
+	rewards: [{
+		uid: "5e90680b",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "cb0c836c",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:servo"
+		}]
+	}],
+	rewards: [{
+		uid: "8d843896",
+		type: "random",
+		table: 0
+	}]
+}

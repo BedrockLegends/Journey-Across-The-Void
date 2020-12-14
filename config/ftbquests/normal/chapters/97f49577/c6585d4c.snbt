@@ -1,0 +1,19 @@
+{
+	x: -8.0d,
+	y: 5.0d,
+	dependencies: [
+		"3963517c"
+	],
+	tasks: [{
+		uid: "0a8b934a",
+		type: "item",
+		items: [{
+			item: "storagenetwork:storage_kabel"
+		}]
+	}],
+	rewards: [{
+		uid: "6c82f595",
+		type: "random",
+		table: 0
+	}]
+}

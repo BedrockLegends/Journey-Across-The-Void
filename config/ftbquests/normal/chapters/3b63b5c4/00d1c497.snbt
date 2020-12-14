@@ -1,0 +1,35 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	description: "Any of the null modifier's in the void ore and void resource miner can be replaced with these",
+	dependencies: [
+		"d5717e50",
+		"9b8b5f99"
+	],
+	tasks: [{
+		uid: "d67ea9d9",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_speed"
+		}]
+	},
+	{
+		uid: "d300bb34",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_luck"
+		}]
+	},
+	{
+		uid: "4e5cb912",
+		type: "item",
+		items: [{
+			item: "environmentaltech:modifier_accuracy"
+		}]
+	}],
+	rewards: [{
+		uid: "c653db77",
+		type: "random",
+		table: 0
+	}]
+}

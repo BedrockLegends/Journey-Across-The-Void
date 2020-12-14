@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: -12.0d,
+	dependencies: [
+		"f81a1c59"
+	],
+	tasks: [{
+		uid: "c85d343f",
+		type: "item",
+		items: [{
+			item: "pneumaticcraft:uv_light_box"
+		}]
+	}],
+	rewards: [{
+		uid: "e6dd309c",
+		type: "random",
+		table: 0
+	}]
+}

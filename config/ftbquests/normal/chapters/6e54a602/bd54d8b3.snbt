@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 3.0d,
+	dependencies: [
+		"97f49577"
+	],
+	tasks: [{
+		uid: "666f1d92",
+		type: "checkmark",
+		title: "Simple storage / Extreme reactors / PSI",
+		icon: "storagenetwork:kabel"
+	}],
+	rewards: [{
+		uid: "9605f86f",
+		type: "command",
+		auto: "invisible",
+		command: "/say @team has completed the Simple storage / Extreme reactors / PSI quest line!"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -9.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "c0eb9173",
+		type: "item",
+		items: [{
+			item: "harvestcraft:whitemushroomitem"
+		}]
+	}],
+	rewards: [{
+		uid: "d73fc393",
+		type: "random",
+		table: 3
+	}]
+}

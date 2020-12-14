@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	dependencies: [
+		"3498ef03"
+	],
+	tasks: [{
+		uid: "f4df3a05",
+		type: "item",
+		items: [{
+			item: "rftools:storage_scanner"
+		}]
+	}],
+	rewards: [{
+		uid: "fb4ccc8b",
+		type: "random",
+		table: 0
+	}]
+}

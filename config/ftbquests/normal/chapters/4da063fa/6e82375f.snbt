@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "8dc5a5aa",
+		type: "item",
+		items: [{
+			item: "planetprogression:satellite_launcher"
+		}]
+	}],
+	rewards: [{
+		uid: "0b86cab2",
+		type: "random",
+		table: 0
+	}]
+}

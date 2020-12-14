@@ -1,0 +1,22 @@
+{
+	x: 14.0d,
+	y: 7.0d,
+	dependencies: [
+		"a80ddd58"
+	],
+	tasks: [{
+		uid: "a179e184",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_displayer",
+			tag: {
+				fluid: "lifeessence"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5e9a18a9",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	x: 4.0d,
+	y: -10.0d,
+	dependencies: [
+		"671151ee"
+	],
+	tasks: [{
+		uid: "e6d5789f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "etchacid",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c90c59d3",
+		type: "random",
+		table: 0
+	}]
+}

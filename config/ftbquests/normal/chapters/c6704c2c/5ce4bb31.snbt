@@ -1,0 +1,20 @@
+{
+	x: -13.0d,
+	y: 11.0d,
+	description: "Place a chest next to this, and direct a Mana Spreader into the manager. Manager does not require Mana to collect items, and it also works with regular bonsai pots, but it does require Mana to boost Livingrock pots.",
+	dependencies: [
+		"d6d3d01e"
+	],
+	tasks: [{
+		uid: "196fdce3",
+		type: "item",
+		items: [{
+			item: "botanicbonsai:bonsai_pot_manager"
+		}]
+	}],
+	rewards: [{
+		uid: "038e7f0c",
+		type: "random",
+		table: 0
+	}]
+}

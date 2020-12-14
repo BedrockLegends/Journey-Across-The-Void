@@ -1,0 +1,23 @@
+{
+	x: 7.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "12f86042",
+		type: "item",
+		title: "Osmium ingot",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotOsmium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}],
+	rewards: [{
+		uid: "12f8a27b",
+		type: "random",
+		table: 0
+	}]
+}

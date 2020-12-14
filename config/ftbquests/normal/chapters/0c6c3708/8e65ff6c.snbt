@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: 9.0d,
+	dependencies: [
+		"a80ddd58"
+	],
+	tasks: [{
+		uid: "93111614",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_displayer",
+			tag: {
+				fluid: "oxygen_difluoride"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "c6b544ec",
+		type: "random",
+		table: 0
+	}]
+}

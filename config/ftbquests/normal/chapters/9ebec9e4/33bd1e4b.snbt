@@ -1,0 +1,16 @@
+{
+	x: -11.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "1eaf902d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:waterchestnutitem"
+		}]
+	}],
+	rewards: [{
+		uid: "679f6389",
+		type: "random",
+		table: 3
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -3.0d,
+	y: -5.0d,
+	dependencies: [
+		"a80ddd58"
+	],
+	tasks: [{
+		uid: "d428c7a8",
+		type: "item",
+		items: [{
+			id: "fluidcows:cow_displayer",
+			tag: {
+				fluid: "binnie.juice.pear"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "57488024",
+		type: "random",
+		table: 0
+	}]
+}

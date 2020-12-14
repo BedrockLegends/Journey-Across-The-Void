@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: -1.0d,
+	dependencies: [
+		"a1f65319"
+	],
+	tasks: [{
+		uid: "88199e4b",
+		type: "item",
+		items: [{
+			item: "simplegenerators:ender_simple"
+		}]
+	}],
+	rewards: [{
+		uid: "c39a6186",
+		type: "random",
+		table: 0
+	}]
+}

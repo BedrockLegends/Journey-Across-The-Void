@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	dependencies: [
+		"4b4b728c"
+	],
+	tasks: [{
+		uid: "7328a8b7",
+		type: "item",
+		items: [{
+			item: "psi:programmer"
+		}]
+	}],
+	rewards: [{
+		uid: "1081d44b",
+		type: "random",
+		table: 0
+	}]
+}

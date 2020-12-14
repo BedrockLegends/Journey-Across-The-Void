@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: -1.0d,
+	dependencies: [
+		"d0a1d7e3"
+	],
+	tasks: [{
+		uid: "bb629584",
+		type: "item",
+		items: [{
+			item: "sky_orchards:sapling_gravel"
+		}]
+	}],
+	rewards: [{
+		uid: "26f02a0d",
+		type: "random",
+		table: 0
+	}]
+}

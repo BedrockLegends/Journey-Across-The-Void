@@ -1,0 +1,19 @@
+{
+	x: -6.0d,
+	y: -14.0d,
+	dependencies: [
+		"8efabc02"
+	],
+	tasks: [{
+		uid: "727b2681",
+		type: "item",
+		items: [{
+			item: "extraplanets:tier5_items 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "30c4c6e2",
+		type: "random",
+		table: 0
+	}]
+}

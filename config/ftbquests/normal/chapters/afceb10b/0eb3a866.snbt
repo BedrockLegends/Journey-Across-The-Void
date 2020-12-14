@@ -1,0 +1,19 @@
+{
+	x: 7.0d,
+	y: -4.0d,
+	dependencies: [
+		"dd664342"
+	],
+	tasks: [{
+		uid: "d0bbc343",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichediron"
+		}]
+	}],
+	rewards: [{
+		uid: "253f932e",
+		type: "random",
+		table: 0
+	}]
+}

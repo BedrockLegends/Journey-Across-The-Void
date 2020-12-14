@@ -1,0 +1,19 @@
+{
+	x: -11.0d,
+	y: -21.0d,
+	dependencies: [
+		"4360d8b9"
+	],
+	tasks: [{
+		uid: "bf20848f",
+		type: "item",
+		items: [{
+			item: "extraplanets:advanced_launch_pad 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "26a67981",
+		type: "random",
+		table: 0
+	}]
+}

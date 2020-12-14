@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 9.0d,
+	tasks: [{
+		uid: "b8e6cf39",
+		type: "item",
+		items: [{
+			item: "telepastries:nether_cake"
+		}]
+	}],
+	rewards: [{
+		uid: "7b9a11c9",
+		type: "item",
+		item: "telepastries:overworld_cake"
+	}]
+}

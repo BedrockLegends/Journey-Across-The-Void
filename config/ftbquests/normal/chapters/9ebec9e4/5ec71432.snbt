@@ -1,0 +1,16 @@
+{
+	x: -6.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "bce99584",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tealeafitem"
+		}]
+	}],
+	rewards: [{
+		uid: "bcce4e7e",
+		type: "random",
+		table: 3
+	}]
+}

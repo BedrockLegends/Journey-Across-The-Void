@@ -1,0 +1,16 @@
+{
+	x: -9.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "c124e99b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:garlicitem"
+		}]
+	}],
+	rewards: [{
+		uid: "cc07c28b",
+		type: "random",
+		table: 3
+	}]
+}

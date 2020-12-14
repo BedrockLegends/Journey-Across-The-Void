@@ -1,0 +1,116 @@
+{
+	title: "Hard quests",
+	loot_size: 1,
+	rewards: [{
+		item: "draconicevolution:dragon_heart"
+	},
+	{
+		item: "minecraft:nether_star"
+	},
+	{
+		item: "mysticalagriculture:intermedium_furnace"
+	},
+	{
+		item: "tconstruct:materials 1 50"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "appliedenergistics2:storage_cell_64k",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "notenoughwands:acceleration_wand",
+			tag: {
+				mode: 2
+			}
+		}
+	},
+	{
+		item: {
+			id: "draconicevolution:dislocator_advanced",
+			tag: {}
+		}
+	},
+	{
+		item: "draconicevolution:magnet"
+	},
+	{
+		item: "draconicevolution:crystal_binder"
+	},
+	{
+		item: "draconicevolution:energy_crystal 1 1",
+		count: 2
+	},
+	{
+		item: {
+			id: "draconicevolution:draconium_capacitor",
+			tag: {
+				Energy: 64000000
+			},
+			Damage: 1s
+		}
+	},
+	{
+		item: "draconicevolution:wyvern_helm"
+	},
+	{
+		item: "draconicevolution:wyvern_chest"
+	},
+	{
+		item: "draconicevolution:wyvern_legs"
+	},
+	{
+		item: "draconicevolution:wyvern_boots"
+	},
+	{
+		item: "draconicevolution:crafting_injector 1 3"
+	},
+	{
+		item: "draconicevolution:draconic_core"
+	},
+	{
+		item: "draconicevolution:wyvern_core"
+	},
+	{
+		item: "draconicevolution:awakened_core"
+	},
+	{
+		item: "draconicevolution:chaotic_core"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:supremium_seed_extractor",
+			tag: {
+				tier: 5
+			}
+		}
+	},
+	{
+		item: "draconicevolution:chaos_shard 1 1",
+		count: 3
+	},
+	{
+		xp_levels: 50,
+		type: "xp_levels"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:insanium_sickle",
+			tag: {}
+		}
+	}]
+}

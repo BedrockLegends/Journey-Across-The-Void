@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	tasks: [{
+		uid: "4587e94e",
+		type: "item",
+		items: [{
+			item: "solarflux:mirror"
+		}]
+	}],
+	rewards: [{
+		uid: "43419782",
+		type: "random",
+		table: 0
+	}]
+}

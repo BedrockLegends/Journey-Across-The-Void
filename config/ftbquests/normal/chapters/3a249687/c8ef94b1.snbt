@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 0.0d,
+	dependencies: [
+		"d0a1d7e3"
+	],
+	tasks: [{
+		uid: "3548959c",
+		type: "item",
+		items: [{
+			item: "sky_orchards:sapling_torch"
+		}]
+	}],
+	rewards: [{
+		uid: "58224396",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	dependencies: [
+		"845915db"
+	],
+	tasks: [{
+		uid: "e51cd1f1",
+		type: "item",
+		items: [{
+			item: "rftools:saturationplus_module"
+		}]
+	}],
+	rewards: [{
+		uid: "bebd7e85",
+		type: "random",
+		table: 0
+	}]
+}

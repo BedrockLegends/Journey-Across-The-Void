@@ -1,0 +1,7 @@
+{
+	title: "Tinker's construct",
+	icon: "tconstruct:tooltables",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

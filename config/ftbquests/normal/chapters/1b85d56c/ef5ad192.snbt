@@ -1,0 +1,28 @@
+{
+	x: 6.0d,
+	y: 2.0d,
+	description: "This can do all seeds tier 2 and below",
+	dependencies: [
+		"93d84a5a"
+	],
+	tasks: [{
+		uid: "5ac6c7e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:prudentium_seed_extractor",
+			tag: {
+				tier: 2
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "255799bc",
+		type: "random",
+		table: 0
+	}]
+}

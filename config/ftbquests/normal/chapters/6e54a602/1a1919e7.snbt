@@ -1,0 +1,31 @@
+{
+	title: "MasterSloth1",
+	icon: {
+		id: "minecraft:skull",
+		tag: {
+			SkullOwner: {
+				Id: "008c4004-4183-4097-9cb5-18db26d9f7cc",
+				Properties: {
+					textures: [{
+						Signature: "HMeiwhdeYSypuyt3tluY6h8J5F2FW3Hbq75ra/OGZvfhMSpQIFu1EeCMSnDc2bTtJh4iHTip5kKdaUUm+Fd2r3qRCNUoV/XindZ4XgC2/5d6XGb7Z/YaOY5vupT8jWL/T8eDHZxAzGY9AEtfLjq2M0gGI48h0jOTNEo3y72MMCt3eEnFzpxw4Z5D0pG8rnSBzag5neFQIwawPOenR6F21y1ljl047oTO0fluVjxIX7exVVBByUakn1ozXfVZJMfbLf7QJRhF+phn1ITC9Zjl0rRSjwed0BoxEBpOsENKkR4kozKBPoXR46Rbto9BsmsJk535GDLjqa+k1DjooCHzFUJBQ7yC2lrhaRs2NOc0lWWJtpVTdEzdtbmqDDpgylq4cJ/Ec+F372jB2wLWGNBCwa0Cm3XIhEBZNWmsrrD3WVHF9xGNT8l+AOFCFXQ85N+PUraKKHgBbcyVaBEP6AsAEap6/57MMSWP1VDLMz4bdJpoZBoYcmXVg9/HC1XAwfO5d14jJSQIsuGPRvJJ+DptR6AKQHuTgy+c6gXxltXcG2+XFkQqcPWz/5lujGgl9kLBQaI8Iagwf8ldKd/hUShfHPsyVPblFjXCnjhk1UsICZD/yD3vzXadW2sJP4uSZapQbYDSvsB58AdSFyFPQIoWKUPnH4xeHXiwcX46dMZT+R4=",
+						Value: "eyJ0aW1lc3RhbXAiOjE1ODExMjk0MTM4OTMsInByb2ZpbGVJZCI6IjAwOGM0MDA0NDE4MzQwOTc5Y2I1MThkYjI2ZDlmN2NjIiwicHJvZmlsZU5hbWUiOiJNYXN0ZXJTbG90aDEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3NjNkMjdkYzQ5NjQ3ZTEwNDgzZDViMzdiYjFlMjMwZTcyODgxZDM3ODgwN2RhZGFjMzFhNjk3MmYyNzYzODEifX19"
+					}]
+				},
+				Name: "MasterSloth1"
+			}
+		},
+		Damage: 3s
+	},
+	x: 1.0d,
+	y: 0.0d,
+	description: "Questbook Developer",
+	tasks: [{
+		uid: "20b987bc",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "ec821603",
+		type: "command",
+		command: "/give @p minecraft:skull 1 3 {SkullOwner:\"MasterSloth1\"}"
+	}]
+}

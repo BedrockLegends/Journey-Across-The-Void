@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: -3.0d,
+	dependencies: [
+		"2cb44515"
+	],
+	tasks: [{
+		uid: "f3b94b38",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_snare"
+		}]
+	}],
+	rewards: [{
+		uid: "9d58862f",
+		type: "random",
+		table: 0
+	}]
+}

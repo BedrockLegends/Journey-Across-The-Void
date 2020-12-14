@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	dependencies: [
+		"8e687515"
+	],
+	tasks: [{
+		uid: "83dc94ed",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:latex_processing_unit"
+		}]
+	}],
+	rewards: [{
+		uid: "a452f8f5",
+		type: "random",
+		table: 0
+	}]
+}

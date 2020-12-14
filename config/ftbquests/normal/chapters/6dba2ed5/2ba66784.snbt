@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -7.0d,
+	dependencies: [
+		"2c34285c"
+	],
+	tasks: [{
+		uid: "864589cd",
+		type: "item",
+		items: [{
+			item: "simplegenerators:culinary_upgradable"
+		}]
+	}],
+	rewards: [{
+		uid: "968fd5cd",
+		type: "random",
+		table: 0
+	}]
+}

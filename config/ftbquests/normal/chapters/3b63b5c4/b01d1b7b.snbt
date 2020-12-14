@@ -1,0 +1,20 @@
+{
+	x: -5.0d,
+	y: 1.0d,
+	dependencies: [
+		"1f7b79e2"
+	],
+	tasks: [{
+		uid: "7024ae3a",
+		type: "item",
+		items: [{
+			item: "environmentaltech:structure_frame_2"
+		}],
+		count: 24L
+	}],
+	rewards: [{
+		uid: "823fedb3",
+		type: "random",
+		table: 0
+	}]
+}

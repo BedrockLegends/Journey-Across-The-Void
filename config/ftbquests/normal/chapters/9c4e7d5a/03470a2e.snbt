@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 5.0d,
+	dependencies: [
+		"91f534da"
+	],
+	tasks: [{
+		uid: "4d66b86f",
+		type: "item",
+		items: [{
+			item: "rftools:flight_module"
+		}]
+	}],
+	rewards: [{
+		uid: "3b2ff4d6",
+		type: "random",
+		table: 0
+	}]
+}

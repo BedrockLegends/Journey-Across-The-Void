@@ -1,0 +1,26 @@
+{
+	x: 4.0d,
+	y: 5.0d,
+	dependencies: [
+		"454ea736"
+	],
+	tasks: [{
+		uid: "9e9cc91e",
+		type: "checkmark",
+		title: "Mob Killing Tasks",
+		icon: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:blaze"
+				}
+			}
+		}
+	}],
+	rewards: [{
+		uid: "7ecb571a",
+		type: "command",
+		auto: "invisible",
+		command: "/say @team has completed the Mob Killing Tasks quest line!"
+	}]
+}

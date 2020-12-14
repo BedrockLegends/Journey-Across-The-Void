@@ -1,0 +1,16 @@
+{
+	x: -11.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "4360201b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gigapickleitem"
+		}]
+	}],
+	rewards: [{
+		uid: "6990d6e2",
+		type: "random",
+		table: 3
+	}]
+}

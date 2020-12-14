@@ -1,0 +1,7 @@
+{
+	title: "Simple storage / Extreme reactors / PSI",
+	icon: "storagenetwork:kabel",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

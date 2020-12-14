@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: -9.0d,
+	dependencies: [
+		"93166650"
+	],
+	tasks: [{
+		uid: "d13911ac",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:petrified_fuel_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "3ba8bf98",
+		type: "random",
+		table: 0
+	}]
+}

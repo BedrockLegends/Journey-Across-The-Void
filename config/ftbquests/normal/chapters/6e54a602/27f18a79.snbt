@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 4.0d,
+	dependencies: [
+		"6dba2ed5"
+	],
+	tasks: [{
+		uid: "ca0be71a",
+		type: "checkmark",
+		title: "Simple Generators",
+		icon: "simplegenerators:combustion_simple"
+	}],
+	rewards: [{
+		uid: "f44aeebc",
+		type: "command",
+		auto: "invisible",
+		command: "/say @team has completed the Simple Generators quest line!"
+	}]
+}

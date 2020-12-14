@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 4.0d,
+	dependencies: [
+		"1b4d4afe"
+	],
+	tasks: [{
+		uid: "f7e8c836",
+		type: "checkmark",
+		title: "Logistics pipes",
+		icon: "logisticspipes:pipe_basic"
+	}],
+	rewards: [{
+		uid: "e7dc7c8c",
+		type: "command",
+		auto: "invisible",
+		command: "/say @team has completed the Logistics pipes quest line!"
+	}]
+}

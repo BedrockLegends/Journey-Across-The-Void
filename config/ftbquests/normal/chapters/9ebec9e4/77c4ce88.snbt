@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "ed2bca73",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cinnamonitem"
+		}]
+	}],
+	rewards: [{
+		uid: "8829ad7e",
+		type: "random",
+		table: 3
+	}]
+}

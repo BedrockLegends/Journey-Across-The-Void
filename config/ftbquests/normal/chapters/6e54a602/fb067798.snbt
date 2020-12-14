@@ -1,0 +1,31 @@
+{
+	icon: {
+		id: "minecraft:skull",
+		tag: {
+			SkullOwner: {
+				Id: "8f88b5be-f6c0-4e77-b5e1-0879eb2bf4e9",
+				Properties: {
+					textures: [{
+						Signature: "bnfu8vYlbU2ybdlYhWiUOGPN6+396K270VDTyDIwvV2TELzKdpA6oq6oufBXa07NtaYeLg0ia3a7QLYutqRmhZRZ02dC9hqRTitF9OTJNH41uxFtE0C47YFcKnoAblWwu1tTRTLHmLEAF/nHqzEqPZdEDoG6Dnx6JiaCF2YoznUX6ILgfQCSF1PSAfTGLuHSyIpsjAqlvherSGtWKvk+Q4jT6a+CHenj8zQ/C/YT4g5ZAytPtaEGF5cgRtWLHlTK91vwPbBcW0jcWD18OVnMB08OocAZixKSogn6lu9RxD8+/Vw2PNc4qQk9DWlWIkT9b+LmNFY7e5pc8LZNbUUEJs26kL7ODsdAKFpya0efWGyJsNiBYbVTbwKk7fkEcd12D8HBNzRLneoT//JZ2DbyjJdBIUj33oSGiUnSSGV4+knQ/7x6cvptaCAfvTM0pFlN5e5dRVYweXq3tyO3zkEm1w4xylVkj0DhmvYFom4Cga0ieSuDQYeB1+LwABF4iSMhVvvDbwbgUEwUaBlwEOHTgMZ5Ojhqx9mygLBMer+6c71Bl7czwZ+22Z2fYxVgKHRmd0JP77vX0zcBy18Z8IIpLIa4tZAYSERch4ysmIl/Ey+Zfmhj6qPArd4kOWrOZtv+XcwFABtH93jgp5tHnfk61lWWMdYawl/JaWD1rgh/TKk=",
+						Value: "eyJ0aW1lc3RhbXAiOjE1ODY5NTQ3NTQxNDMsInByb2ZpbGVJZCI6IjhmODhiNWJlZjZjMDRlNzdiNWUxMDg3OWViMmJmNGU5IiwicHJvZmlsZU5hbWUiOiJMZWN0YXZpc29uIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNDVmYTZlNjk2MTAyZGVmMDJiMzg3NGRmMTEyYmQyMGI4Mzg1NGMzZTYwZmEwMDYzY2RmNmM5NzAzMmFiMTFlIn19fQ=="
+					}]
+				},
+				Name: "Lectavison"
+			}
+		},
+		Damage: 3s
+	},
+	x: 0.0d,
+	y: 1.0d,
+	description: "Developer",
+	tasks: [{
+		uid: "e246e410",
+		type: "checkmark",
+		title: "Lectavison"
+	}],
+	rewards: [{
+		uid: "828d7038",
+		type: "command",
+		command: "/give @p minecraft:skull 1 3 {SkullOwner:\"Lectavison\"}"
+	}]
+}

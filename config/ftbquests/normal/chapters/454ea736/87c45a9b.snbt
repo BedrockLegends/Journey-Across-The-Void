@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	can_repeat: true,
+	dependencies: [
+		"6a8482b3"
+	],
+	tasks: [{
+		uid: "630d7d35",
+		type: "kill",
+		entity: "minecraft:witch",
+		value: 20L
+	}],
+	rewards: [{
+		uid: "871061bc",
+		type: "random",
+		table: 0
+	}]
+}

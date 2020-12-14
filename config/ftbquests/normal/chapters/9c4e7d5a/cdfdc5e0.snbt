@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	dependencies: [
+		"360d2f4c"
+	],
+	tasks: [{
+		uid: "ef4c3aad",
+		type: "item",
+		items: [{
+			item: "rftools:shield_block3"
+		}]
+	}],
+	rewards: [{
+		uid: "060daf7f",
+		type: "random",
+		table: 0
+	}]
+}

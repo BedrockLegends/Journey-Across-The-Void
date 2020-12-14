@@ -1,0 +1,20 @@
+{
+	title: "Research paper (Saturn)",
+	x: 6.0d,
+	y: 1.0d,
+	dependencies: [
+		"b6ddc761"
+	],
+	tasks: [{
+		uid: "ef8f1c4f",
+		type: "item",
+		items: [{
+			item: "planetprogression:research_paper_20"
+		}]
+	}],
+	rewards: [{
+		uid: "5aa09a0e",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	x: 13.0d,
+	y: -2.0d,
+	description: "Place this at the base of a spruce tree to produce resin",
+	dependencies: [
+		"198710df"
+	],
+	tasks: [{
+		uid: "cfb3f8fa",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				]
+			},
+			Damage: 3s
+		}]
+	}],
+	rewards: [{
+		uid: "02673bb3",
+		type: "random",
+		table: 0
+	}]
+}

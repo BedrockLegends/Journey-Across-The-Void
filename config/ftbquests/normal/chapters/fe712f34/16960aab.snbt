@@ -1,0 +1,21 @@
+{
+	x: 2.0d,
+	y: -5.0d,
+	dependencies: [
+		"902f30af",
+		"a841b5a6"
+	],
+	tasks: [{
+		uid: "3bdea1d3",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:tinydryrubber"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "de7047f4",
+		type: "random",
+		table: 0
+	}]
+}

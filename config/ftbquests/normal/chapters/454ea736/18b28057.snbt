@@ -1,0 +1,19 @@
+{
+	x: 10.0d,
+	y: -2.0d,
+	can_repeat: true,
+	dependencies: [
+		"12a15ebb"
+	],
+	tasks: [{
+		uid: "9bf85238",
+		type: "kill",
+		entity: "galacticraftcore:evolved_witch",
+		value: 20L
+	}],
+	rewards: [{
+		uid: "d6777bf0",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	description: "Place one of these down and select the quest then pipe your fluid into one of these to submit it for the quest",
+	tasks: [{
+		uid: "0e2b0e98",
+		type: "item",
+		items: [{
+			item: "ftbquests:screen"
+		}],
+		count: 16L,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2087e79b",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 9.0d,
+	y: -7.0d,
+	description: "right click one of the assembly io units to turn it blue (extract mode)",
+	dependencies: [
+		"fa6d8ec3"
+	],
+	tasks: [{
+		uid: "87afefc0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pneumaticcraft:pneumatic_wrench",
+			Damage: 30000s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ba870bc5",
+		type: "random",
+		table: 0
+	}]
+}

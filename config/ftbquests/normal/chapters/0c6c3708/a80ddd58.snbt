@@ -1,0 +1,72 @@
+{
+	title: "Let's Start Fluid Cows",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.0d,
+	shape: "gear",
+	text: [
+		"You are going to need to capture a fluid cow in a Pokaball (AKA Mob Imprisonment Tool) to get started. They can usually be found in the Twilight Forest.",
+		"",
+		"After you have the Cow in the Pokeball, place it in the mob duplicator then when the cows start to spawn you need to use the cow halter to get a Cow displayer."
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "908793a4",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_duplicator"
+		}]
+	},
+	{
+		uid: "9d853f6c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "fluidcows:cow_halter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "740700bc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:mob_imprisonment_tool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6eb39d63",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "essence",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a38519ad",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fluiddictionary_converter"
+		}]
+	}],
+	rewards: [{
+		uid: "913abfaf",
+		type: "random",
+		table: 0
+	}]
+}

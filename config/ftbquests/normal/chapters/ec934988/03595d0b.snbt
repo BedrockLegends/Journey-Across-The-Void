@@ -1,0 +1,45 @@
+{
+	x: 4.0d,
+	y: 2.0d,
+	text: [
+		"Might be good for the distiller"
+	],
+	tasks: [{
+		uid: "379abc42",
+		type: "item",
+		items: [{
+			item: "xnet:controller"
+		}]
+	},
+	{
+		uid: "19f24619",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:interface"
+		}]
+	},
+	{
+		uid: "c06f7d51",
+		type: "item",
+		items: [{
+			id: "xnet:advanced_connector",
+			tag: {
+				display: {
+					LocName: "tile.xnet.advanced_connector_blue.name"
+				}
+			}
+		}]
+	},
+	{
+		uid: "478da202",
+		type: "item",
+		items: [{
+			item: "rftools:storage_scanner"
+		}]
+	}],
+	rewards: [{
+		uid: "a89a32d8",
+		type: "random",
+		table: 0
+	}]
+}

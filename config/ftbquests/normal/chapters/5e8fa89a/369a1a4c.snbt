@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	dependencies: [
+		"51af7ee3"
+	],
+	tasks: [{
+		uid: "d1b512c1",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "afc019e3",
+		type: "random",
+		table: 0
+	}]
+}

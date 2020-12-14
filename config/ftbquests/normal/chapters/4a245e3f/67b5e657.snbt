@@ -1,0 +1,19 @@
+{
+	x: -1.0d,
+	y: 1.0d,
+	dependencies: [
+		"e657d033"
+	],
+	tasks: [{
+		uid: "84d09d83",
+		type: "item",
+		items: [{
+			item: "cyberware:charger"
+		}]
+	}],
+	rewards: [{
+		uid: "f0f3a279",
+		type: "random",
+		table: 0
+	}]
+}

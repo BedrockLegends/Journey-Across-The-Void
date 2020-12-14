@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "38a5aa62",
+		type: "item",
+		items: [{
+			item: "harvestcraft:plumitem"
+		}]
+	}],
+	rewards: [{
+		uid: "e08a0538",
+		type: "random",
+		table: 3
+	}]
+}

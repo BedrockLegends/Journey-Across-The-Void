@@ -1,0 +1,16 @@
+{
+	x: -9.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f910edcc",
+		type: "item",
+		items: [{
+			item: "telepastries:twilight_cake"
+		}]
+	}],
+	rewards: [{
+		uid: "f08fd504",
+		type: "item",
+		item: "telepastries:overworld_cake"
+	}]
+}

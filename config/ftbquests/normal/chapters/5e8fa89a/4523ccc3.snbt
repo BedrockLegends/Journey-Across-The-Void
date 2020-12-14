@@ -1,0 +1,25 @@
+{
+	x: 6.0d,
+	y: -4.0d,
+	dependencies: [
+		"ecba6a08"
+	],
+	tasks: [{
+		uid: "d6226cf6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:blood_orb",
+			tag: {
+				orb: "bloodmagic:archmage"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "14ef45da",
+		type: "random",
+		table: 0
+	}]
+}

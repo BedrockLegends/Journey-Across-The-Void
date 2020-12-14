@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "1b9b0f55",
+		type: "item",
+		items: [{
+			item: "harvestcraft:persimmonitem"
+		}]
+	}],
+	rewards: [{
+		uid: "a9abf4ca",
+		type: "random",
+		table: 3
+	}]
+}

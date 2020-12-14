@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	dependencies: [
+		"40fd1ec3"
+	],
+	tasks: [{
+		uid: "f8fc1225",
+		type: "item",
+		items: [{
+			item: "enderutilities:machine_1 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "de694d8c",
+		type: "random",
+		table: 0
+	}]
+}

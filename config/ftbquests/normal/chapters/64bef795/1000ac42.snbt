@@ -1,0 +1,19 @@
+{
+	x: 12.0d,
+	y: 8.0d,
+	dependencies: [
+		"d7e80aaa"
+	],
+	tasks: [{
+		uid: "dd9c1ab6",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:filter 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "5f72d21c",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	dependencies: [
+		"40fd1ec3"
+	],
+	tasks: [{
+		uid: "bbef37e7",
+		type: "item",
+		items: [{
+			item: "enderutilities:draw_bridge"
+		}]
+	}],
+	rewards: [{
+		uid: "900d6a08",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	dependencies: [
+		"c264df48"
+	],
+	tasks: [{
+		uid: "80e48ae1",
+		type: "item",
+		items: [{
+			item: "environmentaltech:erodium"
+		}],
+		count: 6L
+	}],
+	rewards: [{
+		uid: "803651d6",
+		type: "random",
+		table: 0
+	}]
+}

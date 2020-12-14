@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: 3.0d,
+	dependencies: [
+		"b6d63e16"
+	],
+	tasks: [{
+		uid: "5200273d",
+		type: "item",
+		items: [{
+			item: "planetprogression:satellite_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "8ac43e51",
+		type: "random",
+		table: 0
+	}]
+}

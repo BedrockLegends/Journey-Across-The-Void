@@ -1,0 +1,7 @@
+{
+	title: "Simple Generators",
+	icon: "simplegenerators:combustion_simple",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}
