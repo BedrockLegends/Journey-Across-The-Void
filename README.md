@@ -1,4 +1,4 @@
-# Journey-Across-The-Void 
+# Expedition In The Sky
   <a href="https://discord.gg/kvagXuP">
     <img alt="Discord" src="https://img.shields.io/discord/554449878282010633?color=purple&label=Discord&style=flat-square">
   </a>
@@ -17,7 +17,7 @@
 
 ## About the Pack:
 
-Welcome to Journey Across The Void! Journey Across The Void will offer you a Skyblock experience filled to the walls with many mods ranging from tech to magic to more. This pack was built around tons of quest that are related to each mod or task that is needed to move forward within this pack.
+Welcome to Expedition In The Sky! Expedition In The Sky will offer you a Skyblock experience filled to the walls with many mods ranging from tech to magic to more. This pack was built around tons of quest that are related to each mod or task that is needed to move forward within this pack.
 
 
 
@@ -35,5 +35,4 @@ The Feed The Beast Team for use of their mods in Curseforge packs.
 
 
 ## Other Projects
-- [Journey Across The Void 2](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void-2)
 - [Monumental Experience](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
