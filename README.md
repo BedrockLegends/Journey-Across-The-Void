@@ -56,3 +56,4 @@ If you're looking to play Expedition In The Sky with your friends, grab a server
 ## Other Projects
 - [Monumental Experience](https://www.curseforge.com/minecraft/modpacks/monumental-experience)
 - [Modern's Lite Adventure](https://www.curseforge.com/minecraft/modpacks/moderns-lite-adventure)
+- [Wooden Utilities](https://www.curseforge.com/minecraft/mc-mods/wooden-utilities)
