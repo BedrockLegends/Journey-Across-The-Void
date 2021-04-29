@@ -17,9 +17,7 @@
 
 ## About the Pack:
 
-  <a href="">
-    <img alt="Modpack logo" src="https://www.bisecthosting.com/images/CF/ES/BH_ES_Header.png">
-  </a>
+![alt text](https://www.bisecthosting.com/images/CF/ES/BH_ES_Header.png)
 
 
   <a href="">
