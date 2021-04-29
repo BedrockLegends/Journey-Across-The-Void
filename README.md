@@ -28,15 +28,15 @@ Welcome to Expedition In The Sky! Expedition In The Sky will offer you a Skybloc
 
 ## Modpack Developers:
 
-ModernGamingWorld
+- ModernGamingWorld
 
 ## Additional Credits:
 
-Thank you to the Feed The Beast team for use of mods in their CurseForge packs.
+- Thank you to the Feed The Beast team for use of mods in their CurseForge packs.
 
-Thank you to BisectHosting for Illustrations.
+- Thank you to BisectHosting for Illustrations.
 
-Thank you to the BedrockLegends Community.
+- Thank you to the BedrockLegends Community.
 
 
 ## Other Projects
