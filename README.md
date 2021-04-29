@@ -23,7 +23,7 @@ Welcome to Expedition In The Sky! Expedition In The Sky will offer you a Skybloc
 
 
 ## Mod List
-[Mod List](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void/relations/dependencies)
+[Mod List](https://www.curseforge.com/minecraft/modpacks/expedition-in-the-sky/relations/dependencies)
 
 
 ## Modpack Developers:
