@@ -1,19 +1,14 @@
-# Expedition In The Sky
-  <a href="https://discord.gg/kvagXuP">
-    <img alt="Discord" src="https://img.shields.io/discord/554449878282010633?color=purple&label=Discord&style=flat-square">
-  </a>
+# Expedition In The Sky [![Curseforge][curseImg]][curseLink]
 
- <a href="https://github.com/ModernGamingWorld/Expedition-In-The-Sky/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/BedrockLegends/Journey-Across-The-Void">
-  </a>
-  
-  <a href="https://www.curseforge.com/minecraft/modpacks/monumental-experience">
-    <img alt="Modpack Downloads" src="http://cf.way2muchnoise.eu/full_325071_downloads.svg">
-  </a>
-  
-  <a href="https://www.curseforge.com/minecraft/modpacks/monumental-experience">
-    <img alt="Modpack Versions" src="http://cf.way2muchnoise.eu/versions/325071.svg">
-  </a>
+[![Twitch Status](https://img.shields.io/twitch/status/ModernGamingWorld?label=ModernGamingWorld&style=social)](https://www.twitch.tv/moderngamingworld) [![Discord][discordimg]][discordlink]
+
+[discordImg]: https://img.shields.io/discord/329440410839678986.svg?logo=discord&logoWidth=18&colorB=7289DA
+
+[discordLink]: https://discord.gg/CTbZwZnFpZ
+
+[curseImg]: http://cf.way2muchnoise.eu/325071.svg
+
+[curseLink]: https://www.curseforge.com/minecraft/modpacks/expedition-in-the-sky
 
 ## About the Pack:
 
