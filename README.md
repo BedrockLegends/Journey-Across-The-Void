@@ -16,10 +16,12 @@
 ![alt tag](https://www.bisecthosting.com/images/CF/ES/BH_ES_Insiders.png)
 
 
-Welcome to Expedition In The Sky! Expedition In The Sky will offer you a Skyblock experience filled to the walls with many mods ranging from tech to magic to more. This pack was built around tons of quests that are related to each mod or task that is needed to move forward within this pack.
+<p align="center">
+   Welcome to Expedition In The Sky! Expedition In The Sky will offer you a Skyblock experience filled to the walls with many mods ranging from tech to magic to more. This pack was built around tons of quests that are related to each mod or task that is needed to move forward within this pack.
+</p>
 
 <p align="center">
-    **When starting a world, set Level Type to VOID**
+    When starting a world, set Level Type to VOID
 </p>
 
   <a href="https://bisecthosting.com/bedrocklegends">
