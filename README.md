@@ -46,10 +46,14 @@ If you're looking to play Expedition In The Sky with your friends, grab a server
 ## Additional Credits:
 
 <p align="center">
-   Thank you to the Feed The Beast team for use of mods in their CurseForge packs.
-   
+   Thank you to the Feed The Beast team for use of mods in their CurseForge packs
+</p>
+
+<p align="center">
    Thank you to BisectHosting for Illustrations.
-   
+</p>
+
+<p align="center">
    Thank you to the BedrockLegends Community.
 </p>
 
