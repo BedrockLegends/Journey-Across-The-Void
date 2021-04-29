@@ -3,7 +3,7 @@
     <img alt="Discord" src="https://img.shields.io/discord/554449878282010633?color=purple&label=Discord&style=flat-square">
   </a>
 
- <a href="https://github.com/BedrockLegends/Journey-Across-The-Void/issues">
+ <a href="https://github.com/ModernGamingWorld/Expedition-In-The-Sky/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/BedrockLegends/Journey-Across-The-Void">
   </a>
   
