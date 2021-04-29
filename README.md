@@ -11,11 +11,8 @@
 [curseLink]: https://www.curseforge.com/minecraft/modpacks/expedition-in-the-sky
 
 ## About the Pack:
+![alt tag](https://www.bisecthosting.com/images/CF/ES/BH_ES_Header.png)
 
-![alt text](https://www.bisecthosting.com/images/CF/ES/BH_ES_Header.png)
-
-
-![alt text](https://www.bisecthosting.com/images/CF/ES/BH_ES_Insiders.png)
 
 Welcome to Expedition In The Sky! Expedition In The Sky will offer you a Skyblock experience filled to the walls with many mods ranging from tech to magic to more. This pack was built around tons of quest that are related to each mod or task that is needed to move forward within this pack.
 
