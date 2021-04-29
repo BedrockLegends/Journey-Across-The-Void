@@ -27,7 +27,10 @@
   <a href="https://bisecthosting.com/bedrocklegends">
     <img alt="Modpack Versions" src="https://www.bisecthosting.com/images/CF/ES/BH_ES_PromoCard.png">
   </a>
+  
+  <p align="center">
 If you're looking to play Expedition In The Sky with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze. Use the code BedrockLegends to save 25% off your first month.
+</p>
 
 
 ## Mod List
