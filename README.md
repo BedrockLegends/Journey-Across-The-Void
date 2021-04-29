@@ -38,7 +38,7 @@ If you're looking to play Expedition In The Sky with your friends, grab a server
    ModernGamingWorld
 </p>
 
-## Additional Credits:
+![alt tag](https://www.bisecthosting.com/images/CF/ES/BH_ES_Credits.png)
 
 <p align="center">
    Thank you to the Feed The Beast team for use of mods in their CurseForge packs
