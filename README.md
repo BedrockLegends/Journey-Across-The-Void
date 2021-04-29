@@ -20,6 +20,10 @@ Welcome to Expedition In The Sky! Expedition In The Sky will offer you a Skybloc
 
 **When starting a world, set Level Type to VOID**
 
+  <a href="https://bisecthosting.com/bedrocklegends">
+    <img alt="Modpack Versions" src="https://www.bisecthosting.com/images/CF/ES/BH_ES_PromoCard.png">
+  </a>
+If you're looking to play Expedition In The Sky with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze. Use the code BedrockLegends to save 25% off your first month.
 
 
 ## Mod List
