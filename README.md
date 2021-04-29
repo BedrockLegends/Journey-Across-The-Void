@@ -32,8 +32,13 @@ ModernGamingWorld
 
 ## Additional Credits:
 
-The Feed The Beast Team for use of their mods in Curseforge packs.
+Thank you to the Feed The Beast team for use of mods in their CurseForge packs.
+
+Thank you to BisectHosting for Illustrations.
+
+Thank you to the BedrockLegends Community.
 
 
 ## Other Projects
-- [Monumental Experience](https://www.curseforge.com/minecraft/modpacks/journey-across-the-void)
+- [Monumental Experience](https://www.curseforge.com/minecraft/modpacks/monumental-experience)
+- [Modern's Lite Adventure](https://www.curseforge.com/minecraft/modpacks/moderns-lite-adventure)
