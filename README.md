@@ -17,7 +17,7 @@
 
 ## About the Pack:
 
-  <a href="https://www.curseforge.com/minecraft/modpacks/expedition-in-the-sky">
+  <a href="">
     <img alt="Modpack logo" src="https://www.bisecthosting.com/images/CF/ES/BH_ES_Header.png">
   </a>
 
