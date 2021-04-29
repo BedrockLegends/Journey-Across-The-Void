@@ -39,15 +39,19 @@ If you're looking to play Expedition In The Sky with your friends, grab a server
 
 ## Modpack Developers:
 
-- ModernGamingWorld
+<p align="center">
+   ModernGamingWorld
+</p>
 
 ## Additional Credits:
 
-- Thank you to the Feed The Beast team for use of mods in their CurseForge packs.
-
-- Thank you to BisectHosting for Illustrations.
-
-- Thank you to the BedrockLegends Community.
+<p align="center">
+   Thank you to the Feed The Beast team for use of mods in their CurseForge packs.
+   
+   Thank you to BisectHosting for Illustrations.
+   
+   Thank you to the BedrockLegends Community.
+</p>
 
 
 ## Other Projects
