@@ -1,11 +1,5 @@
 # Expedition In The Sky [![Curseforge][curseImg]][curseLink]
 
-[![Twitch Status](https://img.shields.io/twitch/status/ModernGamingWorld?label=ModernGamingWorld&style=social)](https://www.twitch.tv/moderngamingworld) [![Discord][discordimg]][discordlink]
-
-[discordImg]: https://img.shields.io/discord/808837174387671090?color=7289DA&label=Modern%27s%20Place&style=flat-square
-
-[discordLink]: https://discord.gg/CTbZwZnFpZ
-
 [curseImg]: http://cf.way2muchnoise.eu/325071.svg
 
 [curseLink]: https://www.curseforge.com/minecraft/modpacks/expedition-in-the-sky
@@ -24,9 +18,6 @@
     When starting a world, set Level Type to VOID
 </p>
 
-  <a href="https://bisecthosting.com/bedrocklegends">
-    <img alt="Modpack Versions" src="https://www.bisecthosting.com/images/CF/ES/BH_ES_PromoCard.png">
-  </a>
   
   <p align="center">
 If you're looking to play Expedition In The Sky with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze. Use the code BedrockLegends to save 25% off your first month.
@@ -35,6 +26,8 @@ If you're looking to play Expedition In The Sky with your friends, grab a server
 ## Modpack Developers:
 
 <p align="center">
+   MasterSloth1
+   Warbringer12
    ModernGamingWorld
 </p>
 
@@ -49,11 +42,8 @@ If you're looking to play Expedition In The Sky with your friends, grab a server
 </p>
 
 <p align="center">
-   Thank you to the BedrockLegends Community.
+
 </p>
 
 
 ## Other Projects
-- [Monumental Experience](https://www.curseforge.com/minecraft/modpacks/monumental-experience)
-- [Modern's Lite Adventure](https://www.curseforge.com/minecraft/modpacks/moderns-lite-adventure)
-- [Wooden Utilities](https://www.curseforge.com/minecraft/mc-mods/wooden-utilities)
