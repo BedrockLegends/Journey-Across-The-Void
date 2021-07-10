@@ -1,5 +1,5 @@
 #Name: toolnerfs.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'toolnerfs.zs'...");
 
@@ -26,6 +26,7 @@ Val Changes - Tweaks
     var Goldshovel = <minecraft:golden_shovel>;
     var Goldaxe = <minecraft:golden_axe>;
     var Goldhoe = <minecraft:golden_hoe>;
+	
 /*=========================
 Recipe Changes 
 =========================*/
@@ -34,7 +35,6 @@ Stonesword.maxDamage = 1;
 Stoneshovel.maxDamage = 1;
 Stoneaxe.maxDamage = 1;
 Stonehoe.maxDamage = 1;
-
 
 Ironpick.maxDamage = 1;
 Ironsword.maxDamage = 1;
