@@ -13,14 +13,9 @@
 <p align="center">
    Welcome to Expedition In The Sky! Expedition In The Sky will offer you a Skyblock experience filled to the walls with many mods ranging from tech to magic to more. This pack was built around tons of quests that are related to each mod or task that is needed to move forward within this pack.
 </p>
-
-<p align="center">
-    When starting a world, set Level Type to VOID
-</p>
-
   
   <p align="center">
-If you're looking to play Expedition In The Sky with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze. Use the code BedrockLegends to save 25% off your first month.
+If you're looking to play Expedition In The Sky with your friends, grab a server from BisectHosting. The modpack can be pre-installed, so there is no need for doing it yourself. Also, the updates are automated as well, making everything a breeze.
 </p>
 
 ## Modpack Developers:
@@ -40,10 +35,3 @@ If you're looking to play Expedition In The Sky with your friends, grab a server
 <p align="center">
    Thank you to BisectHosting for Illustrations.
 </p>
-
-<p align="center">
-
-</p>
-
-
-## Other Projects
