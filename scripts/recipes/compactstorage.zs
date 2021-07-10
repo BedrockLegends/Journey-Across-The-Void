@@ -1,5 +1,5 @@
 #Name: compactstorage.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'compactstorage.zs'...");
 

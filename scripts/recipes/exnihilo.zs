@@ -1,5 +1,5 @@
 #Name: exnihilo.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'exnihilo.zs'...");
 

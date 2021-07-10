@@ -1,5 +1,5 @@
 #Name: practicallogistics.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'practicallogistics.zs'...");
 
@@ -80,7 +80,6 @@ mods.logistics.hammer.addRecipe(Lumium, Lumiumplate);
 /*=========================
 Recipe Changes
 =========================*/
-
 recipes.addShaped(Forginghammer, 
    [[Woodlog, Hardenedstone, Woodlog], 
     [Hardenedstone, Pressureplate, Hardenedstone], 

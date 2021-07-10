@@ -1,5 +1,5 @@
 #Name: vanilla.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'vanilla.zs'...");
 
@@ -43,7 +43,6 @@ Replaced Recipes
 /*=========================
 Recipe layout
 =========================*/
-
 recipes.addShaped(Chest * 5, 
    [[Log, Log, Log], 
     [Log, Log, Log], 

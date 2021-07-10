@@ -1,5 +1,5 @@
 #Name: forestry.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'forestry.zs'...");
 

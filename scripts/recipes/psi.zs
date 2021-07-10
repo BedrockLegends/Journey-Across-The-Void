@@ -1,5 +1,5 @@
 #Name: psi.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'psi.zs'...");
 

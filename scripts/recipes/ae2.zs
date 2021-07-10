@@ -1,5 +1,5 @@
 #Name: ae2.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'ae2.zs'...");
 

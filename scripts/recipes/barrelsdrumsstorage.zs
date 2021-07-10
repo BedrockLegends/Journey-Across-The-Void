@@ -1,6 +1,6 @@
 import crafttweaker.item.IIngredient;
 #Name: barrelsdrumsstorage.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'barrelsdrumsstorage.zs'...");
 

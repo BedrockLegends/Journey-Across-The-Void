@@ -1,5 +1,5 @@
 #Name: immersiveengineering.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'immersiveengineering.zs'...");
 

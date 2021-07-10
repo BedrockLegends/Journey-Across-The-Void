@@ -1,5 +1,5 @@
 #Name: environmentaltech.zs
-#Author: ModernGamingWorld, Mastersloth, Warbringer, Lectavison
+#Author: ModernGamingWorld, Mastersloth, Warbringer
 
 print("Initializing 'environmentaltech.zs'...");
 
