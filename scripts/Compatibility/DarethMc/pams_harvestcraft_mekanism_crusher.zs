@@ -3,6 +3,7 @@
 print("Initializing 'pams_harvestcraft_mekanism_crusher.zs...");
 
 val biofuel = <mekanism:biofuel>;
+
 mods.mekanism.crusher.addRecipe(<harvestcraft:blackberryitem>, biofuel *3);
 mods.mekanism.crusher.addRecipe(<harvestcraft:blackberryseeditem>, biofuel *2);
 mods.mekanism.crusher.addRecipe(<harvestcraft:blueberryitem>, biofuel *3);
@@ -222,4 +223,5 @@ mods.mekanism.crusher.addRecipe(<harvestcraft:wintersquashitem>, biofuel *3);
 mods.mekanism.crusher.addRecipe(<harvestcraft:wintersquashseeditem>, biofuel *2);
 mods.mekanism.crusher.addRecipe(<harvestcraft:zucchiniitem>, biofuel *3);
 mods.mekanism.crusher.addRecipe(<harvestcraft:zucchiniseeditem>, biofuel *2);
+
 print("Initialized 'pams_harvestcraft_mekanism_crusher.zs...");

@@ -226,4 +226,5 @@ mods.immersiveengineering.Fermenter.addRecipe(seed, ethanol *100, <harvestcraft:
 mods.immersiveengineering.Fermenter.addRecipe(seed, ethanol *100, <harvestcraft:wintersquashseeditem>, 80);
 mods.immersiveengineering.Fermenter.addRecipe(seed, ethanol *100, <harvestcraft:zucchiniitem>, 80);
 mods.immersiveengineering.Fermenter.addRecipe(seed, ethanol *100, <harvestcraft:zucchiniseeditem>, 80);
+
 print("Initialized '04_pams_hc_ie_fermenter.zs...");
