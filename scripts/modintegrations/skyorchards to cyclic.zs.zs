@@ -45,6 +45,7 @@ Variables
     var Clay = <minecraft:clay_ball>;
     var Baconacorn = <sky_orchards:acorn_bacon>;
     var Bacon = <harvestcraft:maplecandiedbaconitem>;
+	
 /*=========================
 Acorn Packager Integration
 =========================*/	

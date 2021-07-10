@@ -41,6 +41,7 @@ Variables for acorns
     var Clayacorn = <sky_orchards:acorn_clay>;
     var Baconacorn = <sky_orchards:acorn_bacon>;
     var Bacon = <harvestcraft:maplecandiedbaconitem>;	
+	
 /*=========================
 Acorn Microwave Integration
 =========================*/
